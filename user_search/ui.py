@@ -8,7 +8,6 @@ from searchosf import retrieve_user_info
 def fetch_data(href_value):
     id_value = href_value.replace(".html", "")
     api_url = f"https://boris.unibe.ch/cgi/exportview/contributors_bern/{id_value}/JSON/{id_value}.js"
-    # print("API Query:", api_url)  
     response = requests.get(api_url)
     return json.loads(response.text)
 
