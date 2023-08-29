@@ -1,0 +1,169 @@
+first_name,middle_name,last_name,institute,raw_name,email,job_role,parsed_name
+Hans,,Walder,Institute for Penal Law and Criminology,Prof. Dr. Hans Walder (†),,,['Hans Walder']
+PD,Dr. Anna-Katharine,Brem,Universitäre Psychiatrische Dienste (UPD),PD Dr. Anna-Katharine Brem,,"Group Leader, Lecturer",['Anna-Katharine Brem']
+M.A.,Andrés Villa,Torres,Institute of Social Anthropology,M.A. Andrés Villa Torres,,Phd student,['M.A. Andrés Villa Torres']
+Elias,,Schmid,Institute of Educational Science,Elias Schmid,,Doktorand,['Elias Schmid']
+James,Natia,Adam,Institute of Geography,Dr. James Natia Adam,,PhD,['James Natia']
+Cédric,,Zurbrügg,Institute of Marketing ‌and Management,Cédric Zurbrügg,,Doktorand,['Cédric Zurbrügg']
+em.,Dr. Ulrich Luz,†,Institute for New Testament Studies,Prof. em. Dr. Ulrich Luz †,,Emeritus; New Testament,['Ulrich Luz']
+des.,Nadja Heimlicher,Infanger,Institute of Historical Theology,Dr. des. Nadja Heimlicher Infanger,,Doktorandin für Ältere Geschichte des Christentums und der interreligiösen Begegnungen,['Nadja Heimlicher']
+Daniel,,Ritter,Institute of Historical Theology,Daniel Ritter,,Doktorand in der Abteilung für Neuere Geschichte des Christentums und Konfessionskunde,['Daniel Ritter']
+Pierre-Olivier,,Léchot,Institute of Historical Theology,Dr. Pierre-Olivier Léchot,,Habilitand,['Pierre-Olivier Léchot']
+Matthias,,Bühlmann,Institute of Historical Theology,Matthias Bühlmann,,Doktorand in der Abteilung für Neuere Geschichte des Christentums und Konfessionskunde,['Matthias Bühlmann']
+Kerstin,,Gross,Institute of Historical Theology,Kerstin Gross,,Doktorandin,['Kerstin Gross']
+Hanspeter,,Jecker,Institute of Historical Theology,Dr. Hanspeter Jecker,,Wissenschaftlicher Mitarbeiter,['Hanspeter Jecker']
+med.,Michael,Liebrenz,Institute for Penal Law and Criminology,Prof. Dr. med. Michael Liebrenz,,Lehrbeauftragter für forensische Psychiatrie und Psychologie,['Michael Liebrenz']
+Guido,,Jenny,Institute for Penal Law and Criminology,Prof. Dr. Guido Jenny (†),,,['Guido Jenny']
+h.c.,mult. Hans,Schultz,Institute for Penal Law and Criminology,Prof. Dr. Dr. h.c. mult. Hans Schultz (†),,,"['Dr. h.c. mult', 'Hans Schultz']"
+em.,Dr. Norbert Thom Prof. h.c. Dr. h.c.,mult.,Institute of Organization and Human Resource Management,Prof. em. Dr. Norbert Thom Prof. h.c. Dr. h.c. mult. († April 2019),,Emeritus,"['Norbert Thom', 'h.c', 'h.c. mult']"
+Friederike,,Vinzenz,Institute of Communication and Media Studies (icmb),Dr. Friederike Vinzenz,,Lecturer,['Friederike Vinzenz']
+Annunziata,,Romano,Institute for Infectious Diseases,Annunziata Romano,,Staff Media Production,['Annunziata Romano']
+Nora,,Streit,Institute for Infectious Diseases,Nora Streit,,assistant laboratory technician molecular analytics,['Nora Streit']
+rer.,nat. Wolfgang,Weinmann,Institute of Forensic Medicine,Prof. Dr. rer. nat. Wolfgang Weinmann,,"Dep. Director, Forensic Toxicologist, Chemist",['Wolfgang Weinmann']
+Jana,,Roth,Institute of Pharmacology,Jana Roth,,Master student (MSc. Pharm.),['Jana Roth']
+Jäger,,Tim,Institute of Complementary and Integrative Medicine,"Jäger Tim, PhD",,Research associate († 1.3.2019),['Jäger Tim']
+von,Ammon,Klaus,Institute of Complementary and Integrative Medicine,"von Ammon Klaus, MD",,Senior physician and Head of clinical research Homeopathy,['von Ammon Klaus']
+med.,vet. Fabiana,Micieli,Clinical Anesthesiology,Dr. med. vet. Fabiana Micieli,,,"['vet', 'Fabiana']"
+med.,vet. Ida,Storch,Clinical Anesthesiology,med. vet. Ida Storch,,,"['med.', 'vet', 'Ida Storch']"
+Anna,,Schneider,Institute of Parasitology,Anna Schneider,,Masterstudentin,['Anna Schneider']
+med.,vet. Alois,von Rotz,Division of Veterinary Anatomy,Dr. med. vet. Alois von Rotz,,Ehemaliger wissenschaftlicher Mitarbeiter,"['vet', 'Alois von Rotz']"
+em.,Dr. Marina,Cattaruzza,Institute of History,Prof. em. Dr. Marina Cattaruzza,,Prof. emerita for Modern History,['Marina Cattaruzza']
+em.,Dr. Judit,Garamvölgyi,Institute of History,Prof. em. Dr. Judit Garamvölgyi,,Prof. emerita for Modern General History,['Judit Garamvölgyi']
+M.A.,Fabrizio,Bätscher,Institute of Archaeological Sciences,M.A. Fabrizio Bätscher,,Doktorand,['M.A. Fabrizio Bätscher']
+Nicolas,,Diesbach,Institute of Archaeological Sciences,Nicolas Diesbach,,Tutor,['Nicolas Diesbach']
+Chiara,,Huwiler,Institute of Archaeological Sciences,Chiara Huwiler,,Tutorin,['Chiara Huwiler']
+M.A.,Elisabeth,Monamy,Institute of Archaeological Sciences,M.A. Elisabeth Monamy,,Doktorandin,['M.A. Elisabeth Monamy']
+M.A.,Matthias,Raaflaub,Institute of Archaeological Sciences,M.A. Matthias Raaflaub,,Wissenschaftlicher Mitarbeiter,['M.A. Matthias Raaflaub']
+Katarina,,Schiltknecht,Institute of Archaeological Sciences,Katarina Schiltknecht,,Tutorin ARP,['Katarina Schiltknecht']
+em.,Dr. Iso,Kern,Institute of Philosophy,Prof. em. Dr. Iso Kern,,Emeritus,['Iso Kern']
+M.A.,Gerry,Metzger,Institute of Social Anthropology,M.A. Gerry Metzger,,PhD student und research assistant,['M.A. Gerry Metzger']
+Ervina,Binte,Atan,Institute of Social Anthropology,Ervina Binte Atan,,Guest Researcher,['Ervina Binte Atan']
+M.A.,Martina,Eberle,Institute of Social Anthropology,M.A. Martina Eberle,,PhD student,['M.A. Martina Eberle']
+M.A.,Anna,Hänni,Institute of Social Anthropology,M.A. Anna Hänni,,PhD Student,['M.A. Anna Hänni']
+M.A.,Gabriela Andrina,Jörg,Institute of Social Anthropology,M.A. Gabriela Andrina Jörg,,Doktorandin,"['M.A. Gabriela', 'Andrina Jörg']"
+M.A.,Maria-Theresia,Kandathil,Institute of Social Anthropology,M.A. Maria-Theresia Kandathil,,Doktorandin,['M.A. Maria-']
+lic.,phil. Angelika,Laetsch,Institute of Social Anthropology,lic. phil. Angelika Laetsch,,Doktorandin,"['phil', 'Angelika Laetsch']"
+M.A.,Mahroo Movahedi,Sichani,Institute of Social Anthropology,M.A. Mahroo Movahedi Sichani,,Doktorandin,['M.A. Mahroo Movahedi Sichani']
+M.A.,Mark,Okyere,Institute of Social Anthropology,M.A. Mark Okyere,,Doktorand,['M.A. Mark']
+lic.,phil. Ursula,Regehr,Institute of Social Anthropology,lic. phil. Ursula Regehr,,Doktorandin,['phil']
+M.A.,Margaretha,Schelbert-Bürgler,Institute of Social Anthropology,M.A. Margaretha Schelbert-Bürgler,,Doktorandin,"['M.A. Margaretha', 'Schelbert-Bürgler']"
+M.A.,Bitten,Stetter,Institute of Social Anthropology,M.A. Bitten Stetter,,PhD student,['M.A. Bitten Stetter']
+M.A.,Eva-Christiane,von Reumont,Institute of Social Anthropology,M.A. Eva-Christiane von Reumont,,PhD student,['M.A. Eva-Christiane']
+M.A.,Jago,Wyssling,Institute of Social Anthropology,M.A. Jago Wyssling,,Phd student and guest lecturer,['M.A. Jago']
+M.A.,Irene,Zingg,Institute of Social Anthropology,M.A. Irene Zingg,,Doktorandin,['M.A. Irene Zingg']
+Jeanne,Féaux,de la Croix,Institute of Social Anthropology,Dr. Jeanne Féaux de la Croix,,Associated researcher,['Jeanne Féaux de la Croix']
+Mena,,Taverna,Institute of Theatre Studies,Mena Taverna,,Junior Research Assistant / Student Advisor,['Mena Taverna']
+M.A.,Hannah,Rocchi,Institute of Theatre Studies,M.A. Hannah Rocchi,,Doctoral Student,['M.A. Hannah']
+M.A.,Lea,Ticozzi,Institute of Theatre Studies,M.A. Lea Ticozzi,,Doctoral Student,['M.A. Lea Ticozzi']
+M.A.,Andreas,Tobler,Institute of Theatre Studies,M.A. Andreas Tobler,,Doctoral Student,['M.A. Andreas Tobler']
+em.,Dr. Richard,Watts,Department of English,Prof. em. Dr. Richard Watts,,,['Richard Watts']
+M.,A. Tea,Lobo,Institute of Slavic Languages and Literatures,M. A. Tea Lobo,,Doktorandin,['M. A. Tea Lobo']
+Curtis,,Gautschi,Center for the Study of Language and Society (CSLS),Curtis Gautschi,,CSLS,['Gautschi']
+M,Sc Stefan,Emmenegger,Institute of Educational Science,M Sc Stefan Emmenegger,,Doktorand,['Stefan Emmenegger']
+Birger,,Hansen,Institute of Educational Science,Birger Hansen,,Praktikant,['Birger Hansen']
+Manuela,,Catillaz,Institute of Educational Science,"Catillaz, Manuela",,Doktorandin,['Manuela']
+Daniel,,Goldsmith,Institute of Educational Science,"Goldsmith, Daniel",,Doktorand,['Daniel']
+Irene,,Guidon,Institute of Educational Science,"Guidon, Irene",,Doktorandin,"['Guidon', 'Irene']"
+Philipp,,Peter,Institute of Educational Science,"Peter, Philipp",,Doktorand,"['Peter', 'Philipp']"
+phil.,Sonja,Büchel,Institute of Educational Science,Dr. phil. Sonja Büchel,,,"['phil', 'Sonja Büchel']"
+phil.,Lea,de Zordo,Institute of Educational Science,Dr. phil. Lea de Zordo,,,"['phil', 'Lea de Zordo']"
+phil.,,Minh-Ly,Institute of Educational Science,Dr. phil. Minh-Ly Do,,,"['phil', 'Minh-Ly']"
+phil.,Pascal,Engler,Institute of Educational Science,Dr. phil. Pascal Engler,,,"['phil', 'Pascal Engler']"
+phil.,Miriam,Grüning,Institute of Educational Science,Dr. phil. Miriam Grüning,,,"['phil', 'Miriam Grüning']"
+phil.,Doris,Ittner,Institute of Educational Science,Dr. phil. Doris Ittner,,,"['phil', 'Doris Ittner']"
+phil.,Claudia C.,Sutter-Brandenberger,Institute of Educational Science,Dr. phil. Claudia C. Sutter-Brandenberger,,,"['phil', 'Claudia C. Sutter-Brandenberger']"
+phil.,Anja,Winkler,Institute of Educational Science,Dr. phil. Anja Winkler,,,"['phil', 'Anja Winkler']"
+phil.,Jennifer,Waber,Institute of Educational Science,Dr. phil. Jennifer Waber,,,"['phil', 'Jennifer Waber']"
+Cynthia,,Binder,Institute of Educational Science,Cynthia Binder,,Hilfsassistentin,['Cynthia Binder']
+Larissa,,Böhlen,Institute of Educational Science,Larissa Böhlen,,Hilfsassistentin,['Larissa Böhlen']
+phil.,Franziska,Dahinden,Institute of Educational Science,Dr. phil. Franziska Dahinden,,Postdoktorandin,"['phil', 'Franziska Dahinden']"
+Mehmet,,Dönmez,Institute of Educational Science,Mehmet Dönmez,,Hilfsassistent,['Mehmet Dönmez']
+Samantha,,Geissmann,Institute of Educational Science,Samantha Geissmann,,Hilfsassistentin,['Samantha Geissmann']
+Eveline,,Gutzwiller-Helfenfinger,Institute of Educational Science,Prof. Dr. Eveline Gutzwiller-Helfenfinger,,Dozentin,['Eveline Gutzwiller-Helfenfinger']
+MA,Kaja,Marcin,Institute of Educational Science,MA Kaja Marcin,,Doktorandin,['Kaja Marcin']
+Kim,,Rohner,Institute of Educational Science,Kim Rohner,,Hilfsassistentin,['Kim Rohner']
+Barbara,,Schobel,Institute of Educational Science,Barbara Schobel,,Hilfsassistentin,['Barbara Schobel']
+Martina,,Schönholzer-Wyer,Institute of Educational Science,Martina Schönholzer-Wyer,,Hilfsassistentin,['Martina Schönholzer-Wyer']
+Talia,,Stadelmann,Institute of Educational Science,Talia Stadelmann,,Hilfsassistentin,['Talia Stadelmann']
+Stephanie,,Stauffer,Institute of Educational Science,Stephanie Stauffer,,Hilfsassistentin,['Stephanie Stauffer']
+Aline,,Stöckli,Institute of Educational Science,Aline Stöckli,,Hilfsassistentin,['Aline Stöckli']
+M,Sc Selina,Teuscher,Institute of Educational Science,M Sc Selina Teuscher,,Hilfsassistentin,['Selina Teuscher']
+Thomas,,Behrens,Interfaculty Bioinformatics Unit,Thomas Behrens,,Master student,['Thomas Behrens']
+Thibault,,Schowing,Interfaculty Bioinformatics Unit,Thibault Schowing,,Master student,['Thibault Schowing']
+Federico,,Comoglio,Interfaculty Bioinformatics Unit,Dr. Federico Comoglio,,Staff Scientist,['Federico Comoglio']
+Josias,,Brito,Interfaculty Bioinformatics Unit,Dr. Josias Brito,,Research Assistant,['Josias Brito']
+Alain,,Hauser,Interfaculty Bioinformatics Unit,Dr. Alain Hauser,,Research Assistant,['Alain Hauser']
+Benjamin,,Suter-Dörig,Interfaculty Bioinformatics Unit,Benjamin Suter-Dörig,,Research Assistant,['Benjamin Suter-Dörig']
+Thomas,,Kiener,Interfaculty Bioinformatics Unit,Thomas Kiener,,IT-Administration,['Thomas Kiener']
+Surangika,,Jayarathne,Institute of Geography,Surangika Jayarathne,,PhD Student,['Surangika Jayarathne']
+Fabian,,Michel,Centre for Development and Environment (CDE),Fabian Michel,,Research Assistant,['Fabian Michel']
+Marcel,,Rindisbacher,Institute of Financial Management,Prof. Dr. Marcel Rindisbacher,,Former Associate Lecturer,['Marcel Rindisbacher']
+Philippe,,Mueller,Institute of Financial Management,Prof. Dr. Philippe Mueller,,,['Philippe Mueller']
+Zexi,,Wang,Institute of Financial Management,Prof. Dr. Zexi Wang,,Former Assistant Professor,['Zexi Wang']
+Christopher,,Culp,Institute of Financial Management,Prof. Dr. Christopher Culp († Juli 2020),,Professor for Insurance,['Christopher Culp']
+Angela,,De Martiis,Institute of Financial Management,Dr. Angela De Martiis,,,['Angela De Martiis']
+Samuel,,Zumthurm,Institute of Marketing ‌and Management,Samuel Zumthurm,,externer Doktorand,['Samuel Zumthurm']
+Daniela,,Knup,Institute of Marketing ‌and Management,Daniela Knup,,Hilfsassistentin,['Daniela Knup']
+med.,dent. Julien,Ducommun,School of Dental Medicine,Dr. med. dent. Julien Ducommun,,Externer Oberarzt,['Julien Ducommun']
+med.,dent. Roland,Lauber,School of Dental Medicine,Dr. med. dent. Roland Lauber,,Externer Oberarzt,['Roland Lauber']
+med.,dent. Erwin,Meier,School of Dental Medicine,Dr. med. dent. Erwin Meier,,Externer Oberarzt,['Erwin Meier']
+med.,dent. Kaspar,Oberli,School of Dental Medicine,Dr. med. dent. Kaspar Oberli,,Externer Oberarzt,['Kaspar Oberli']
+PD,Dr. med. vet. Werner,Zimmermann,Farm Animal Clinic,PD Dr. med. vet. Werner Zimmermann,,Ehemalige Leitung Schweineklinik von 1982 bis Januar 2013,"['vet', 'Werner Zimmermann']"
+med.,vet. Friederike,Zeeh,Farm Animal Clinic,Dr. med. vet. Friederike Zeeh,,Leiterin ad interim von Februar bis Juli 2013,"['vet', 'Friederike Zeeh']"
+med.,vet. Sara,Joller,Farm Animal Clinic,Dr. med. vet. Sara Joller,,Post-Doc,"['vet', 'Sara Joller']"
+med.,vet. Carmela,Hodel,Farm Animal Clinic,med. vet. Carmela Hodel,,"Assistentin, Doktorandin","['med.', 'vet', 'Carmela Hodel']"
+med.,vet. Anja,Meile,Farm Animal Clinic,med. vet. Anja Meile,,"Assistentin, Doktorandin","['med.', 'Anja Meile']"
+med.,vet. Rebekka,Cadetg,Farm Animal Clinic,Dr. med. vet. Rebekka Cadetg,,"Assistentin, Doktorandin","['vet', 'Rebekka Cadetg']"
+med.,vet. Sarah,Blickenstorfer,Farm Animal Clinic,Dr. med. vet. Sarah Blickenstorfer,,"Assistentin, Weiterbildung zum FVH. 2011 - 2012","['vet', 'Sarah Blickenstorfer']"
+med.,vet. Linus,Eichhorn,Farm Animal Clinic,Dr. med. vet. Linus Eichhorn,,"Assistent, Doktorand, Forschungsgebiet: Magen-Darm-Parasiten, Fachtierarzt FVH für Schweine. 2007 - 2010","['vet', 'Linus Eichhorn']"
+med.,vet. Niels,Grützner,Farm Animal Clinic,Dr. med. vet. Niels Grützner,,"Resident ECPHM, Forschungsgebiet: Vitamin B. 2014 - 2016","['vet', 'Niels Grützner']"
+med.,vet. Anna,Hillebrand,Farm Animal Clinic,Dr. med. vet. Anna Hillebrand,,"Assistentin, Doktorandin, Forschungsgebiet: Überwachung von Remontierungsbeständen. 2011 - 2014",['Anna Hillebrand']
+med.,vet. Miriam,Holbach,Farm Animal Clinic,med. vet. Miriam Holbach,,"Assistentin, Doktorandin, Forschungsgebiet: HPS-Diagnostik. 2014 - 2015","['med.', 'vet', 'Miriam Holbach']"
+med.,vet. Dolf,Kümmerlen,Farm Animal Clinic,Dr. med. vet. Dolf Kümmerlen,,"Dipl. ECPHM, Fachtierarzt für Schweine, Assistent und Berater SGD. 2003 - 2005","['vet', 'Dolf Kümmerlen']"
+med.,vet. Iwan,Nussbaumer,Farm Animal Clinic,Dr. med. vet. Iwan Nussbaumer,,"Assistent, Doktorand, FVH Weiterbildung, Forschungsgebiet: APP-Diagnostik und Narkose beim Schwein, Fachtierarzt FVH für Schweine. 2004 - 2009","['vet', 'Iwan Nussbaumer']"
+Paz,Gil,Sancho,Farm Animal Clinic,Paz Gil Sancho,,"MSc Vet Sci, Forschungsassistentin, Forschungsgebiet: PRRS. 2014 - 2015",['Paz Gil Sancho']
+med.,vet. David,Rossbroich,Farm Animal Clinic,Dr. med. vet. David Rossbroich,,"Assistent, Doktorand, Forschungsgebiet: Brachyspira pilosicoli. 2010 - 2011","['vet', 'David Rossbroich']"
+med.,vet. Menga,Rossetti,Farm Animal Clinic,med. vet. Menga Rossetti,,"Assistentin, Doktorandin, Forschungsgebiet: Brachyspira sp. 2008 - 2009","['med.', 'vet', 'Menga Rossetti']"
+med.,vet. Sandra,Sicken,Farm Animal Clinic,Dr. med. vet. Sandra Sicken,,"Assistentin, Doktorandin, Forschungsgebiet: Brachyspira hyodysenteriae. 2009 - 2011","['vet', 'Sandra Sicken']"
+med.,vet. Salome,Siegenthaler,Farm Animal Clinic,Dr. med. vet. Salome Siegenthaler,,"Assistentin, Doktorandin, Forschungsgebiet: Ascaris suum. 2012 - 2014",['vet']
+med.,vet. Stephanie,Speiser,Farm Animal Clinic,Dr. med. vet. Stephanie Speiser,,"Assistentin, Doktorandin, Forschungsschwerpunkte: Lawsonia intracellularis und Brachyspira sp. 2006 - 2009","['vet', 'Stephanie Speiser']"
+med.,vet. Nicole,Wollschläger,Farm Animal Clinic,Dr. med. vet. Nicole Wollschläger,,"Assistentin, Doktorandin, Forschungsschwerpunkt: Clostridium perfringens, Fachtierärztin FVH für Schweine. 2007 - 2008","['vet', 'Nicole Wollschläger']"
+Remo,,Schmutz,Institute of Psychology,Remo Schmutz,,Research assistant,['Remo Schmutz']
+Gian,,Wegmüller,Institute of Psychology,Gian Wegmüller,,Research assistant,['Gian Wegmüller']
+Ian,,Hussey,Institute of Psychology,Dr. Ian Hussey,,Postdoctoral Researcher,['Ian Hussey']
+Christoph,,Netz,Institute of Ecology and Evolution,Dr. Christoph Netz,,Post-doc,['Christoph Netz']
+Rosanna,,Mangione,Institute of Ecology and Evolution,Rosanna Mangione,,Associated Researcher,['Rosanna Mangione']
+Marvin,,Häfliger,Institute of Ecology and Evolution,Marvin Häfliger,,MSc student,['Marvin Häfliger']
+Dhanya,,Bharath,Institute of Ecology and Evolution,Dhanya Bharath,,MSc student,['Dhanya Bharath']
+Ariel,Ruiz,Urquiola,Institute of Ecology and Evolution,Dr. Ariel Ruiz Urquiola,,Visiting Scientist,['Ariel Ruiz']
+Chiara,,Durrer,Institute of Ecology and Evolution,Chiara Durrer,,MSc Student 2021,['Chiara Durrer']
+Alexandra,,Zurlinden,Institute of Ecology and Evolution,Alexandra Zurlinden,,BSc Student 2018; MSc Student 2019-2020,['Alexandra Zurlinden']
+Brina,Lopez,Gfeller,Institute of Ecology and Evolution,Brina Lopez Gfeller,,BSc Student 2018-2019,['Brina Lopez Gfeller']
+Marco,,Felber,Institute of Ecology and Evolution,Marco Felber,,MSc Student 2017-2019,['Marco Felber']
+Jessica,,Plucain,Institute of Ecology and Evolution,Dr. Jessica Plucain,,Post-doc,['Jessica Plucain']
+Ass.,Prof. Dr. Anna-Sapfo,Malaspinas,Institute of Ecology and Evolution,Ass. Prof. Dr. Anna-Sapfo Malaspinas,,ERC Assistant Professor,['Anna-Sapfo']
+Diana,Ivette Cruz,Dávalos,Institute of Ecology and Evolution,Diana Ivette Cruz Dávalos,,Ms. Sci. student,['Diana Ivette Cruz Dávalos']
+Carlos,Stefano Reyna,Blanco,Institute of Ecology and Evolution,Carlos Stefano Reyna Blanco,,Ms. Sci. student,['Carlos Stefano Reyna Blanco']
+Cindy,,Gidoin,Institute of Ecology and Evolution,Dr. Cindy Gidoin,,Post-doc,['Cindy Gidoin']
+M.,Sc. Adrien,Foucal,Institute of Ecology and Evolution,M. Sc. Adrien Foucal,,Research Assistant,['Adrien Foucal']
+Moritz,,Hilty,Institute of Ecology and Evolution,Moritz Hilty,,Ms. Sci. student,['Moritz Hilty']
+Ken,,Graf,Institute of Ecology and Evolution,Ken Graf,,B.Sc student 2023,['Ken Graf']
+Jill,Leila,Zuckschwerdt,Institute of Ecology and Evolution,Jill Leila Zuckschwerdt,,B.Sc student 2023,['Jill Leila Zuckschwerdt']
+Anna,,Sassara,Institute of Ecology and Evolution,Anna Sassara,,B.Sc student 2023,['Anna Sassara']
+Gaia,,Giacomelli,Institute of Ecology and Evolution,Gaia Giacomelli,,B.Sc student 2023,['Gaia Giacomelli']
+Silvan,,Zünd,Institute of Ecology and Evolution,Silvan Zünd,,B.Sc student 2023,['Silvan Zünd']
+Silvia,,Brochet,Institute of Ecology and Evolution,Dr. Silvia Brochet,,Research technician 2022,['Silvia Brochet']
+Micha,,Fahrni,Institute of Ecology and Evolution,Micha Fahrni,,Lab technician 2021-2022,['Micha Fahrni']
+Akshay,,Bharadwaj,Institute of Ecology and Evolution,Akshay Bharadwaj,,B.Sc student 2021,['Akshay Bharadwaj']
+Anna-Luisa,,Weber,Institute of Ecology and Evolution,Anna-Luisa Weber,,B.Sc student 2021,['Anna-Luisa Weber']
+Tamara,,Baumann,Oeschger Centre for Climate Change Research (OCCR),Tamara Baumann,,Scientific Collaborator,['Tamara Baumann']
+Mattia,,Brughelli,Oeschger Centre for Climate Change Research (OCCR),Mattia Brughelli,,Assistant,['Mattia Brughelli']
+Niccolo,,Galatioto,Oeschger Centre for Climate Change Research (OCCR),Niccolo Galatioto,,Assistant,['Niccolo Galatioto']
+Juan,José,Gómez-Navarro,Oeschger Centre for Climate Change Research (OCCR),Dr. Juan José Gómez-Navarro,,PostDoc,['Juan José Gómez-Navarro']
+Matthias,,Künzler,Oeschger Centre for Climate Change Research (OCCR),Matthias Künzler,,"Co-Director, Head Natural Hazards, Swiss Mobiliar Insurance & Pensions",['Matthias Künzler']
+Marco,,Lang,Oeschger Centre for Climate Change Research (OCCR),Marco Lang,,Student Assistant,['Marco Lang']
+Gabriel,,Meier,Oeschger Centre for Climate Change Research (OCCR),Gabriel Meier,,External Collaborator,['Gabriel Meier']
+Julia,,Ryser,Oeschger Centre for Climate Change Research (OCCR),Julia Ryser,,Student Assistant,['Julia Ryser']
+Mirjam,,Stawicki,Oeschger Centre for Climate Change Research (OCCR),Mirjam Stawicki,,Student Assistant,['Mirjam Stawicki']
+David,,Thöni,Oeschger Centre for Climate Change Research (OCCR),David Thöni,,Assistant,['David Thöni']
+Christoph,,Von Matt,Oeschger Centre for Climate Change Research (OCCR),Christoph Von Matt,,Student Assistant,['Christoph Von Matt']

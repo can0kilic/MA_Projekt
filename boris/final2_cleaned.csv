@@ -1,0 +1,540 @@
+first_name,last_name,institute,href,text,email,job_role
+isabelle,noth,Institute of Practical Theology,"Noth,_Isabelle.html","Noth, Isabelle",isabelle.noth@unibe.ch,"Professorin für Seelsorge, Religionspsychologie und Religionspädagogik"
+m,c,Institute of Practical Theology,"Abendschein,_Hartmut.html","Abendschein, Hartmut",m.c.m.klomp@pthu.nl,"Privatdozentin für Praktische Theologie, Theologische Fakultät Universität Bern"
+Matthias,Rufibach,Institute for Private International Law and Civil Procedure,"Rufibach,_Matthias.html","Rufibach, Matthias",Matthias.Rufibach@unibe.ch,Wissenschaftlicher Assistent
+rafael,studer,Institute for Penal Law and Criminology,"Studer,_Rafael_Marc.html","Studer, Rafael Marc",rafael.studer@krim.unibe.ch,
+jann,schaub,Institute for Penal Law and Criminology,"Schaub,_Jann.html","Schaub, Jann",jann.schaub@krim.unibe.ch,
+frederik,riar,Institute of Organization and Human Resource Management,"Riar,_Frederik.html","Riar, Frederik",frederik.riar@unibe.ch,Assistenzprofessor
+isabelle,stadelmann,Institute of Political Science,"Stadelmann,_Isabelle.html","Stadelmann, Isabelle",isabelle.stadelmann@unibe.ch,Chair of Comparative Politics
+christoph,aebi,Institute for Infectious Diseases,"Aebi,_Christoph.html","Aebi, Christoph",christoph.aebi@insel.ch,"Director and Chief Physician, University Hospital for Pediatrics"
+ronald,dijkman,Institute for Infectious Diseases,"Dijkman,_Ronald.html","Dijkman, Ronald",ronald.dijkman@unibe.ch,Group Leader Experimental Virology
+andrea,endimiani,Institute for Infectious Diseases,"Endimiani,_Andrea.html","Endimiani, Andrea",andrea.endimiani@unibe.ch,Principal Investigator and Consultant Clinical Microbiologist
+lucy,hathaway,Institute for Infectious Diseases,"Hathaway,_Lucy_Jane.html","Hathaway, Lucy Jane",lucy.hathaway@unibe.ch,Principal Investigator
+peter,m,Institute for Infectious Diseases,"Achermann,_Peter.html","Achermann, Peter",peter.m.keller@unibe.ch,"Deputy Head of Clinical Microbiology, Specialized responsibility Bacteriology and Mycology"
+alban,ramette,Institute for Infectious Diseases,"Ramette,_Alban_Nicolas.html","Ramette, Alban Nicolas",alban.ramette@unibe.ch,Principal Investigator
+matthias,egger,Institute of Social and Preventive Medicine (ISPM),"Egger,_Matthias.html","Egger, Matthias",matthias.egger@unibe.ch,Head of Research Group
+volker,enzmann,Department for BioMedical Research (DBMR),"Enzmann,_Volker.html","Enzmann, Volker",volker.enzmann@insel.ch,Member Board of Directors and Contact Insel-Uni-Support
+carsten,riether,Department for BioMedical Research (DBMR),"Riether,_Carsten.html","Riether, Carsten",carsten.riether@unibe.ch,Member Board of Directors
+tosso,leeb,Bern Center for Precision Medicine (BCPM),"Leeb,_Tosso.html","Leeb, Tosso",tosso.leeb@unibe.ch,
+philipp,latzin,Bern Center for Precision Medicine (BCPM),"Latzin,_Philipp.html","Latzin, Philipp",philipp.latzin@insel.ch,
+daniel,aebersold,Bern Center for Precision Medicine (BCPM),"Aebersold,_Daniel_Matthias.html","Aebersold, Daniel Matthias",daniel.aebersold@insel.ch,
+werner,strik,Universitäre Psychiatrische Dienste (UPD),"Strik,_Werner.html","Strik, Werner",werner.strik@unibe.ch,Director and Chairman
+victoria,chapellier,Universitäre Psychiatrische Dienste (UPD),"Chapellier,_Victoria_Jos=E9phine_B=E9reng=E8re_Marie.html","Chapellier, Victoria Joséphine Bérengère Marie",victoria.chapellier@unibe.ch,PhD Student
+elisabeth,jehli,Universitäre Psychiatrische Dienste (UPD),"Jehli,_Elisabeth_Christina.html","Jehli, Elisabeth Christina",elisabeth.jehli@upd.unibe.ch,PhD Student
+esther,brill,Universitäre Psychiatrische Dienste (UPD),"Brill,_Esther.html","Brill, Esther",esther.brill@unibe.ch,PhD student
+judith,howard,Clinical Laboratory,"Howard,_Judith.html","Howard, Judith",judith.howard@unibe.ch,Abteilungsleiterin
+daniela,schweizer,Clinical Radiology,"Schweizer,_Daniela_Esther.html","Schweizer, Daniela Esther",daniela.schweizer@unibe.ch,Abteilungsleiterin
+sven,rottenberg,Institute of Animal Pathology,"Rottenberg,_Sven.html","Rottenberg, Sven",sven.rottenberg@unibe.ch,Institutsleiter
+horst,posthaus,Institute of Animal Pathology,"Posthaus,_Horst.html","Posthaus, Horst",horst.posthaus@unibe.ch,Leiter Lehre und Diagnostik
+meike,mevissen,Division of Veterinary Pharmacology & Toxicology,"Mevissen,_Meike.html","Mevissen, Meike",meike.mevissen@unibe.ch,Director
+josef,gross,Veterinary Physiology,"Gross,_Josef_Johann.html","Gross, Josef Johann",josef.gross@unibe.ch,Dozent / senior scientist
+hansjakob,furrer,Multidisciplinary Center for Infectious Diseases (MCID),"Furrer,_Hansjakob.html","Furrer, Hansjakob",hansjakob.furrer@insel.ch,"Cluster Co-Chair ""Neglected Diseases"""
+siegfried,hapfelmeier,Multidisciplinary Center for Infectious Diseases (MCID),"Hapfelmeier,_Siegfried_Hektor.html","Hapfelmeier, Siegfried Hektor",siegfried.hapfelmeier@unibe.ch,
+christian,althaus,Multidisciplinary Center for Infectious Diseases (MCID),"Althaus,_Christian.html","Althaus, Christian",christian.althaus@ispm.unibe.ch,
+lukas,fenner,Multidisciplinary Center for Infectious Diseases (MCID),"Fenner,_Lukas.html","Fenner, Lukas",lukas.fenner@ispm.unibe.ch,
+philipp,jent,Multidisciplinary Center for Infectious Diseases (MCID),"Jent,_Philipp.html","Jent, Philipp",philipp.jent@med.unibe.ch,
+alexander,leichtle,Multidisciplinary Center for Infectious Diseases (MCID),"Leichtle,_Alexander_Benedikt.html","Leichtle, Alexander Benedikt",alexander.leichtle@insel.ch,
+andri,rauch,Multidisciplinary Center for Infectious Diseases (MCID),"Rauch,_Andri.html","Rauch, Andri",andri.rauch@insel.ch,
+caroline,schlaufer,Multidisciplinary Center for Infectious Diseases (MCID),"Schlaufer,_Caroline_Lea.html","Schlaufer, Caroline Lea",caroline.schlaufer@kpm.unibe.ch,"Manager, EPL Policy"
+daniel,segesser,Institute of History,"Segesser,_Daniel.html","Segesser, Daniel",daniel.segesser@unibe.ch,"Lecturer, director of undergraduate studies and member of the management"
+tina,adam,Institute of History,"Adam,_Tina_Cora.html","Adam, Tina Cora",tina.adam@unibe.ch,PhD Student
+nikita,hock,Institute of History,"Hock,_Nikita.html","Hock, Nikita",nikita.hock@unibe.ch,PhD Student
+lena,joos,Institute of History,"Joos,_Lena_Seraina.html","Joos, Lena Seraina",lena.joos@unibe.ch,PhD Student
+denis,keier,Institute of History,"Keier,_Denis.html","Keier, Denis",denis.keier@unibe.ch,Research Assistant
+stefanie,mahrer,Institute of History,"Mahrer-Fluss,_Stefanie.html","Mahrer-Fluss, Stefanie",stefanie.mahrer@unibe.ch,SNF-PRIMA GranteeProject Manager
+moises,prieto,Institute of History,"Prieto,_Moises.html","Prieto, Moises",moises.prieto@unibe.ch,Associated Researcher
+mathijs,roelofsen,Institute of History,"Roelofsen,_Mathijs_Christian.html","Roelofsen, Mathijs Christian",mathijs.roelofsen@unibe.ch,PhD Student
+victor,strazzeri,Institute of History,"Magalhaes_Strazzeri_de_Araujo,_Victor.html","Magalhaes Strazzeri de Araujo, Victor",victor.strazzeri@faculty.unibe.ch,Associated Researcher
+rea,vogt,Institute of History,"Vogt,_Andreas.html","Vogt, Andreas",rea.vogt@unibe.ch,PhD Student
+oliver,wetter,Institute of History,"Wetter,_Oliver.html","Wetter, Oliver",oliver.wetter@unibe.ch,Associated Researcher
+marta,andriiovych,Institute of Archaeological Sciences,"Andriiovych,_Marta.html","Andriiovych, Marta",marta.andriiovych@iaw.unibe.ch,Projektmitarbeiterin
+pascal,attinger,Institute of Archaeological Sciences,"Attinger,_Pascal.html","Attinger, Pascal",pascal.attinger@iaw.unibe.ch,"Dozent, Altorientalische Philologie"
+armand,baeriswyl,Institute of Archaeological Sciences,"Baeriswyl,_Armand.html","Baeriswyl, Armand",armand.baeriswyl@iaw.unibe.ch,Dozent für Archäologie des Mittelalters und der Neuzeit
+mirco,brunner,Institute of Archaeological Sciences,"Brunner,_Mirco.html","Brunner, Mirco",mirco.brunner@iaw.unibe.ch,"Postdoc, SNF Mobility"
+john,francuz,Institute of Archaeological Sciences,"Francuz,_John_Garvice.html","Francuz, John Garvice",john.francuz@iaw.unibe.ch,Assoziierter Forscher
+annick,payne,Institute of Archaeological Sciences,"Payne,_Annick_Daniela.html","Payne, Annick Daniela",annick.payne@iaw.unibe.ch,Senior Researcher
+noah,steuri,Institute of Archaeological Sciences,"Steuri,_Noah_David.html","Steuri, Noah David",noah.steuri@iaw.unibe.ch,"Doktorand, SNF"
+abed,kassir,Institute for the Study of the Middle East and Muslim Societies,"Kassir,_Abed_Al_Wahab.html","Kassir, Abed Al Wahab",abed.kassir@unibe.ch,"Assistant Islamic and Middle Eastern Studies, PhD Candidate"
+laura,emunds,Institute for the Study of the Middle East and Muslim Societies,"Emunds,_Laura.html","Emunds, Laura",laura.emunds@unibe.ch,"Research Associate and PhD Candidate in the SNF-project TraSIS, responsible for IT and Technology at the ISNO"
+laurent,pugin,The Institute of Musicology,"Pugin,_Laurent_Xavier.html","Pugin, Laurent Xavier",laurent.pugin@unibe.ch,Privatdozent
+matthias,egg,Institute of Philosophy,"Anderegg,_Matthias.html","Anderegg, Matthias",matthias.egg@unibe.ch,Assistant / Bachelor Study Consultation
+zainabu,jallo,Institute of Social Anthropology,"Jallo,_Zainabu_Ojo-Ago.html","Jallo, Zainabu Ojo-Ago",zainabu.jallo@unibe.ch,Research Assistant
+sabrina,stallone,Institute of Social Anthropology,"Stallone,_Sabrina.html","Stallone, Sabrina",sabrina.stallone@unibe.ch,Lecturer and PhD Student
+david,loher,Institute of Social Anthropology,"Loher,_David.html","Loher, David",david.loher@unibe.ch,Assistant
+anna-lena,wolf,Institute of Social Anthropology,"Wolf,_Anna-Lena.html","Wolf, Anna-Lena",anna-lena.wolf@unibe.ch,Associated Researcher
+alexandra,portmann,Institute of Theatre Studies,"Portmann,_Alexandra.html","Portmann, Alexandra",alexandra.portmann@unibe.ch,Assistant Professor for Theatre Studies and Project leader Ambizione
+andreas,kotte,Institute of Theatre Studies,"Kotte,_Andreas_Hans.html","Kotte, Andreas Hans",andreas.kotte@unibe.ch,Professor for Theatre Studies
+johanna,hilari,Institute of Theatre Studies,"Hilari_Choque,_Johanna_Kantuta.html","Hilari Choque, Johanna Kantuta",johanna.hilari@unibe.ch,Research Assistant
+nadja,rothenburger,Institute of Theatre Studies,"Rothenburger,_Nadja.html","Rothenburger, Nadja",nadja.rothenburger@unibe.ch,Project Collaboration / Doctoral Students
+heidy,greco,Institute of Theatre Studies,"Greco-Kaufmann,_Heidy.html","Greco-Kaufmann, Heidy",heidy.greco@unibe.ch,"Associate Researcher, Head of Research and Communication SAPA"
+ursula,kluwick,Department of English,"Kluwick,_Ursula_Maria.html","Kluwick, Ursula Maria",ursula.kluwick@unibe.ch,Wissenschaftliche Mitarbeiterin SNF
+zoe,lehmann,Department of English,"Lehmann,_Zoe_Christina.html","Lehmann, Zoe Christina",zoe.lehmann@unibe.ch,Wissenschaftliche Mitarbeiterin / Stellvertretung Prof. Dr. Richter
+corinne,fournier,Institute of French Language and Literature,"Fournier_Kiss,_Corinne.html","Fournier Kiss, Corinne",corinne.fournier@unibe.ch,"Privat-docent habilitée en littératures française, comparée et slave"
+amandine,herzog,Institute of French Language and Literature,"Herzog,_Amandine.html","Herzog, Amandine",amandine.herzog@unibe.ch,Assistante et doctorante de littérature française
+stefan,abel,Institute of Germanic Languages and Literatures,"Abel,_Stefan.html","Abel, Stefan",stefan.abel@unibe.ch,"Lecturer, Staff Member ""Parzival-Projekt"""
+daniela,kohler,Institute of Germanic Languages and Literatures,"Kohler,_Daniela.html","Kohler, Daniela",daniela.kohler@unibe.ch,"Staff member, Digital Edition Haller"
+roland,spalinger,Institute of Germanic Languages and Literatures,"Spalinger,_Roland.html","Spalinger, Roland",roland.spalinger@unibe.ch,Assistant to Prof. Detering
+aldona,rzitki,Institute of Slavic Languages and Literatures,"Rzitki,_Aldona_Maria.html","Rzitki, Aldona Maria",aldona.rzitki@unibe.ch,Assistent
+jean,rohleder,Department of Linguistics,"Rohleder,_Jean_Karl.html","Rohleder, Jean Karl",jean.rohleder@unibe.ch,Sekretariatsleitung und Lehrbeauftragter für Allgemeine Linguistik
+adriana,lopez-labourdette,Center for Global Studies (CGS),"Lopez-Labourdette,_Adriana.html","Lopez-Labourdette, Adriana",adriana.lopez-labourdette@uzh.ch,
+hannah,hedegard,Center for the Study of Language and Society (CSLS),"Hedegard,_Hannah_Joy_Black.html","Hedegard, Hannah Joy Black",hannah.hedegard@unibe.ch,Department of English
+roland,seiler,Institute of Sport Science,"Seiler-Blarer,_Roland.html","Seiler-Blarer, Roland",roland.seiler@unibe.ch,Head of programme and studies DAS Sport PsychologyFormer professor Department of Sport Science II
+kaspar,riesen,Institute of Computer Science,"Riesen,_Kaspar.html","Riesen, Kaspar",kaspar.riesen@unibe.ch,
+simon,grabowsky,"Department of Chemistry, Biochemistry and Pharmaceutical Sciences","Grabowsky,_Simon.html","Grabowsky, Simon",simon.grabowsky@unibe.ch,Research Group Leader / Forschungsgruppenleiter
+jeannine,wintzer,Institute of Geography,"Wintzer,_Jeannine.html","Wintzer, Jeannine",jeannine.wintzer@unibe.ch,Lecturer
+christoph,oberlack,Centre for Development and Environment (CDE),"Oberlack,_Christoph.html","Oberlack, Christoph",christoph.oberlack@unibe.ch,Member of the Executive Committee | Head of Sustainability Governance Impact Area
+myriam,pham,Centre for Development and Environment (CDE),"Pham,_Myriam.html","Pham, Myriam",myriam.pham@unibe.ch,Research Scientist
+martin,schimmel,School of Dental Medicine,"Schimmel,_Martin.html","Schimmel, Martin",martin.schimmel@unibe.ch,Klinikdirektor
+janek,lobmaier,Institute of Psychology,"Lobmaier,_Janek_Simon.html","Lobmaier, Janek Simon",janek.lobmaier@unibe.ch,
+rolf,weingartner,Oeschger Centre for Climate Change Research (OCCR),"Weingartner,_Rolf.html","Weingartner, Rolf",rolf.weingartner@unibe.ch,"Project leader of the Hydrological Atlas of Switzerland, external collaborator"
+alma,brodersen,Institute of Old Testament Studies,"Brodersen,_Alma.html","Brodersen, Alma",alma.brodersen@unibe.ch,Postdoctoral Researcher and Lecturer
+johannes,klein,Institute of Old Testament Studies,"Klein,_Johannes.html","Klein, Johannes",johannes.klein@unibe.ch,Privatdozent
+patrick,wyssmann,Institute of Old Testament Studies,"Wyssmann,_Patrick_Olivier.html","Wyssmann, Patrick Olivier",patrick.wyssmann@unibe.ch,Dozent
+walter,dietrich,Institute of Old Testament Studies,"Dietrich,_Walter.html","Dietrich, Walter",walter.dietrich@unibe.ch,Emeritus Professor
+rudolf,dellsperger,Institute of Historical Theology,"Dellsperger,_Rudolf.html","Dellsperger, Rudolf",rudolf.dellsperger@unibe.ch,"Emeritus; Neuere Kirchengeschichte, Konfessionskunde und Theologiegeschichte"
+martin,george,Institute of Historical Theology,"George,_Martin.html","George, Martin",martin.george@unibe.ch,Emeritus für Ältere Kirchen- und Dogmengeschichte
+christine,lienemann,Institute of Historical Theology,"Lienemann,_Christine.html","Lienemann, Christine",christine.lienemann@unibe.ch,Ehem. Lehrbeauftragte; Ökumene- und Missionswissenschaft
+thomas,wild,Institute of Practical Theology,"Wild,_Thomas.html","Wild, Thomas",thomas.wild@unibe.ch,Geschäftsleiter AWS
+claudia,kohli,Institute of Practical Theology,"Kohli,_Claudia.html","Kohli, Claudia",claudia.kohli@unibe.ch,Privatdozentin
+katrin,kusmierz,Institute of Practical Theology,"Kusmierz,_Katrin_Dorothea.html","Kusmierz, Katrin Dorothea",katrin.kusmierz@unibe.ch,Wissenschaftliche Geschäftsführerin Kompetenzzentrum Liturgik
+christoph,morgenthaler,Institute of Practical Theology,"Morgenthaler,_Christoph.html","Morgenthaler, Christoph",christoph.morgenthaler@unibe.ch,Emeritus; Seelsorge und Pastoralpsychologie
+christoph,d,Institute of Practical Theology,"Abderhalden,_Christoph.html","Abderhalden, Christoph",christoph.d.mueller@unibe.ch,"Emeritus; Homiletik, Liturgik und Kommunikationswissenschaft"
+mathias,tanner,Institute of Empirical Religious Research,"Tanner,_Mathias.html","Tanner, Mathias",mathias.tanner@unibe.ch,Wissenschaftlicher Mitarbeiter
+christoph,auer,Institute of Public Law,"Auer,_Christoph.html","Auer, Christoph",christoph.auer@be.ch,"Lehrbeauftragter Rechtsanwaltsausbildung ""Bernisches Staatsrecht"""
+martin,wyss,Institute of Public Law,"Wyss,_Martin.html","Wyss, Martin",martin.wyss@bj.admin.ch,"Lehrbeauftragter für ""Rechtsetzungslehre"""
+franz,zeller,Institute of Public Law,"Zeller,_Franz.html","Zeller, Franz",franz.zeller@bj.admin.ch,"Lehrbeauftragter für ""Öffentlich-rechtliches und internationales Medienrecht"""
+christoph,zenger,Center for Health Law and Management,"Zenger,_Christoph.html","Zenger, Christoph",christoph.zenger@rw.unibe.ch,Direktor von 2005 - 2020
+martina,reber,Institute of Banking Law,"Reber,_Martina_Andrea.html","Reber, Martina Andrea",martina.reber@ziv.unibe.ch,"Senior Researcher, Attorney at Law"
+annette,dolge,Institute for Private International Law and Civil Procedure,"Dolge,_Annette_Elisabeth.html","Dolge, Annette Elisabeth",annette.dolge@sh.ch,"Lehrbeauftragte, Obergerichtspräsidentin Kanton Schaffhausen"
+christoph,hurni,Institute for Private International Law and Civil Procedure,"Hurni,_Christoph_=28A=29.html","Hurni, Christoph (A)",christoph.hurni@bger.ch,"Lehrbeauftragter, Bundesrichter in Lausanne"
+rodrigo,rodriguez,Institute for Private International Law and Civil Procedure,"Rodriguez,_Rodrigo.html","Rodriguez, Rodrigo",rodrigo.rodriguez@bj.admin.ch,Lehrbeauftragter
+Ivan,Ruprecht,Institute for Private International Law and Civil Procedure,"Ruprecht,_Ivan.html","Ruprecht, Ivan",Ivan.Ruprecht@unibe.ch,Wissenschaftlicher Assistent
+Rorick,Tovar,Institute for Private International Law and Civil Procedure,"Tovar_Galvan,_Rorick_Daniel.html","Tovar Galvan, Rorick Daniel",Rorick.Tovar@unibe.ch,Wissenschaftlicher Assistent
+Raphael,Zemp,Institute for Private International Law and Civil Procedure,"Zemp,_Raphael_Beda.html","Zemp, Raphael Beda",Raphael.Zemp@unibe.ch,Wissenschaftlicher Assistent
+andrea,eisner,Institute for Liability and Insurance Law,"Eisner,_Andrea.html","Eisner, Andrea",andrea.eisner@eisnerlegal.ch,Lecturer Private Insurance Law I (fall semester) and II (spring semester)
+manuel,jaun,Institute for Liability and Insurance Law,"Jaun,_Manuel.html","Jaun, Manuel",manuel.jaun@advo-jsm.ch,Lecturer Liability Law (fall semester)
+annette,spycher,Institute for Civil Law,"Spycher,_Annette_Muriel.html","Spycher, Annette Muriel",annette.spycher@kellerhals-carrard.ch,"Exercices in Civil Law (main studies), fall and spring semester"
+vera,moser,Institute for Penal Law and Criminology,"Moser,_Vera.html","Moser, Vera",vera.moser@krim.unibe.ch,
+sven,schleifer,Institute for Penal Law and Criminology,"Schleifer,_Sven.html","Schleifer, Sven",sven.schleifer@krim.unibe.ch,
+ueli,hostettler,Institute for Penal Law and Criminology,"Hostettler,_Ueli.html","Hostettler, Ueli",ueli.hostettler@krim.unibe.ch,
+rahel,manetsch-Imholz,Institute for Penal Law and Criminology,"Manetsch-Imholz,_Rahel_Simone.html","Manetsch-Imholz, Rahel Simone",rahel.manetsch-Imholz@krim.unibe.ch,
+louise,frey,Institute for Penal Law and Criminology,"Frey,_Louise_Emily.html","Frey, Louise Emily",louise.frey@krim.unibe.ch,
+julia,lehmann,Institute for Penal Law and Criminology,"Lehmann,_Julia_Patricia.html","Lehmann, Julia Patricia",julia.lehmann@krim.unibe.ch,
+helen,wyler,Institute for Penal Law and Criminology,"Wyler,_Helen.html","Wyler, Helen",helen.wyler@unibe.ch,Post-Doctoral Researcher
+k,nadakavukaren,Institute of European and International Economic Law,"Nadakavukaren,_Krista.html","Nadakavukaren, Krista",k.nadakavukaren@unibas.ch,Lecturer
+pascal,zysset,Institute for Economic Law,"Zysset,_Pascal.html","Zysset, Pascal",pascal.zysset@iwr.unibe.ch,"Koordination Bachelorprüfungen, Habilitand"
+julia,a,Institute of Organization and Human Resource Management,"Albrecht,_Julia_Brigitte.html","Albrecht, Julia Brigitte",julia.a.poell@gmail.com,Promotion 2016
+martina,jakob,Institute of Sociology,"Jakob,_Martina_Saskia.html","Jakob, Martina Saskia",martina.jakob@unibe.ch,Doctoral Candidate
+sebastian,bahr,Institute of Sociology,"Bahr,_Sebastian.html","Bahr, Sebastian",sebastian.bahr@unibe.ch,Assistant
+michele,alfter,Institute for Infectious Diseases,"Alfter,_Michele.html","Alfter, Michele",michele.alfter@unibe.ch,Laboratory Worker
+pascal,bittel,Institute for Infectious Diseases,"Bittel,_Pascal.html","Bittel, Pascal",pascal.bittel@unibe.ch,Head of Molecular Analytics
+edgar,campos-madueno,Institute for Infectious Diseases,"Campos-Madueno,_Edgar_Igor.html","Campos-Madueno, Edgar Igor",edgar.campos-madueno@unibe.ch,PhD Student
+carlo,casanova,Institute for Infectious Diseases,"Casanova,_Carlo.html","Casanova, Carlo",carlo.casanova@unibe.ch,"FAMH Medical Microbiology, Head of Division Mycobacillary Biology"
+markus,hilty,Institute for Infectious Diseases,"Hilty,_Markus.html","Hilty, Markus",markus.hilty@unibe.ch,Principal Investigator
+natalie,jeannet,Institute for Infectious Diseases,"Jeannet,_Natalie.html","Jeannet, Natalie",natalie.jeannet@unibe.ch,FAMH Med.
+matthias,licheri,Institute for Infectious Diseases,"Licheri,_Matthias.html","Licheri, Matthias",matthias.licheri@unibe.ch,PhD Student
+nadezda,mostacci,Institute for Infectious Diseases,"Mostacci,_Nadezda.html","Mostacci, Nadezda",nadezda.mostacci@unibe.ch,Postdoc
+stefan,neuenschwander,Institute for Infectious Diseases,"Neuenschwander,_Stefan.html","Neuenschwander, Stefan",stefan.neuenschwander@unibe.ch,Bioinformatician
+alexander,oberli,Institute for Infectious Diseases,"Oberli,_Alexander_Oliver.html","Oberli, Alexander Oliver",alexander.oberli@unibe.ch,"FAMH Medical Microbiology, Head of Parasitology"
+sarah,schaller,Institute for Infectious Diseases,"Schaller,_Sarah.html","Schaller, Sarah",sarah.schaller@unibe.ch,FAMH Med. Microbiology
+jacqueline,steinlin,Institute for Infectious Diseases,"Steinlin,_Jacqueline.html","Steinlin, Jacqueline",jacqueline.steinlin@unibe.ch,Co-leader cell-based virology
+franziska,suter,Institute for Infectious Diseases,"Suter,_Franziska_Marta.html","Suter, Franziska Marta",franziska.suter@unibe.ch,"Head of Department Clinical Microbiology, Specialized responsibility Virology and Parasitology"
+stephanie,uster,Institute for Infectious Diseases,"Uster,_Stephanie_Sarah.html","Uster, Stephanie Sarah",stephanie.uster@unibe.ch,Candidate FAMH Med. microbiology
+annina,zihler,Institute for Infectious Diseases,"Zihler,_Annina.html","Zihler, Annina",annina.zihler@unibe.ch,Candidate FAMH Med. microbiology
+georgia,konstantinidou,Institute of Pharmacology,"Konstantinidou,_Georgia.html","Konstantinidou, Georgia",georgia.konstantinidou@unibe.ch,Group leader
+marcel,zwahlen,Institute of Social and Preventive Medicine (ISPM),"Zwahlen,_Marcel.html","Zwahlen, Marcel",marcel.zwahlen@unibe.ch,Director a.i.
+annika,frahsa,Institute of Social and Preventive Medicine (ISPM),"Frahsa,_Annika.html","Frahsa, Annika",annika.frahsa@unibe.ch,Head of Research Group
+brigitte,wanner,Institute of Social and Preventive Medicine (ISPM),"Wanner,_Brigitte.html","Wanner, Brigitte",brigitte.wanner@unibe.ch,Head Central Services
+suada,abukar,Institute of Social and Preventive Medicine (ISPM),"Abukar,_Suada.html","Abukar, Suada",suada.abukar@unibe.ch,Junior programmer
+nicolas,banholzer,Institute of Social and Preventive Medicine (ISPM),"Banholzer,_Nicolas.html","Banholzer, Nicolas",nicolas.banholzer@unibe.ch,Postdoctoral Research Fellow
+arjola,bano,Institute of Social and Preventive Medicine (ISPM),"Bano,_Arjola.html","Bano, Arjola",arjola.bano@unibe.ch,Head of Research Group
+dominique,baumann,Institute of Social and Preventive Medicine (ISPM),"Baumann_Metzler,_Dominique.html","Baumann Metzler, Dominique",dominique.baumann@unibe.ch,Project Coordinator
+fabien,belle,Institute of Social and Preventive Medicine (ISPM),"Belle,_Fabien_Naomi.html","Belle, Fabien Naomi",fabien.belle@unibe.ch,Postdoctoral Research Fellow
+sandra,bigi,Institute of Social and Preventive Medicine (ISPM),"Bigi,_Sandra.html","Bigi, Sandra",sandra.bigi@unibe.ch,Research Collaborator
+kristin,bivens,Institute of Social and Preventive Medicine (ISPM),"Bivens,_Kristin_Marie.html","Bivens, Kristin Marie",kristin.bivens@unibe.ch,Scientific Editor
+lilianna,bolliger,Institute of Social and Preventive Medicine (ISPM),"Bolliger-K=E4gi,_Lilianna.html","Bolliger-Kägi, Lilianna",lilianna.bolliger@unibe.ch,Project Manager
+andreas,boss,Institute of Social and Preventive Medicine (ISPM),"Boss,_Andreas.html","Boss, Andreas",andreas.boss@unibe.ch,Project manager
+virginia,chiocchia,Institute of Social and Preventive Medicine (ISPM),"Chiocchia,_Virginia.html","Chiocchia, Virginia",virginia.chiocchia@unibe.ch,PhD Student
+christiane,didden,Institute of Social and Preventive Medicine (ISPM),"Didden,_Christiane_Helene.html","Didden, Christiane Helene",christiane.didden@unibe.ch,Research Associate
+daniela,dyntar,Institute of Social and Preventive Medicine (ISPM),"Dyntar,_Daniela.html","Dyntar, Daniela",daniela.dyntar@unibe.ch,"Head Registration, Coding and Data Quality"
+michaela,fux,Institute of Social and Preventive Medicine (ISPM),"Fux,_Michaela.html","Fux, Michaela",michaela.fux@unibe.ch,Project manager
+chiara,gastaldon,Institute of Social and Preventive Medicine (ISPM),"Gastaldon,_Chiara.html","Gastaldon, Chiara",chiara.gastaldon@unibe.ch,Postdoctoral Research Fellow
+ranjana,gigi,Institute of Social and Preventive Medicine (ISPM),"Gigi,_Ranjana_Malaika_Samira.html","Gigi, Ranjana Malaika Samira",ranjana.gigi@unibe.ch,PhD Student
+marija,glisic,Institute of Social and Preventive Medicine (ISPM),"Glisic,_Marija.html","Glisic, Marija",marija.glisic@unibe.ch,Head of Research Group
+myrofora,goutaki,Institute of Social and Preventive Medicine (ISPM),"Goutaki,_Myrofora.html","Goutaki, Myrofora",myrofora.goutaki@unibe.ch,Senior Researcher
+leonie,heron,Institute of Social and Preventive Medicine (ISPM),"Heron,_Leonie.html","Heron, Leonie",leonie.heron@unibe.ch,Postdoctoral Research Fellow
+emma,hodcroft,Institute of Social and Preventive Medicine (ISPM),"Hodcroft,_Emma_Britt.html","Hodcroft, Emma Britt",emma.hodcroft@unibe.ch,Postdoctoral Research Fellow
+markus,isch,Institute of Social and Preventive Medicine (ISPM),"Fischer,_Markus.html","Fischer, Markus",markus.isch@unibe.ch,"Administrative Assistant, Human Resources"
+oche,itodo,Institute of Social and Preventive Medicine (ISPM),"Itodo,_Oche_Adam.html","Itodo, Oche Adam",oche.itodo@unibe.ch,Research Fellow
+lum,kastrati,Institute of Social and Preventive Medicine (ISPM),"Kastrati,_Lum.html","Kastrati, Lum",lum.kastrati@unibe.ch,PhD student
+farnaz,khatami,Institute of Social and Preventive Medicine (ISPM),"Khatami,_Farnaz.html","Khatami, Farnaz",farnaz.khatami@unibe.ch,Research Fellow
+helena,koppe,Institute of Social and Preventive Medicine (ISPM),"Koppe,_Helena_Mercedes.html","Koppe, Helena Mercedes",helena.koppe@unibe.ch,Research Assistant
+christian,kreis,Institute of Social and Preventive Medicine (ISPM),"Kreis,_Christian.html","Kreis, Christian",christian.kreis@unibe.ch,Postdoctoral Research Fellow
+yin,lam,Institute of Social and Preventive Medicine (ISPM),"Lam,_Yin_Ting.html","Lam, Yin Ting",yin.lam@unibe.ch,PhD Student
+sujung,lee,Institute of Social and Preventive Medicine (ISPM),"Lee,_Sujung.html","Lee, Sujung",sujung.lee@unibe.ch,PhD student
+harvy,liwanag,Institute of Social and Preventive Medicine (ISPM),"Liwanag,_Harvy_Joy.html","Liwanag, Harvy Joy",harvy.liwanag@unibe.ch,Postdoctoral Research Fellow
+nicola,low,Institute of Social and Preventive Medicine (ISPM),"Low,_Nicola.html","Low, Nicola",nicola.low@unibe.ch,Head of Research Group
+maud,maessen,Institute of Social and Preventive Medicine (ISPM),"Maessen,_Maud.html","Maessen, Maud",maud.maessen@unibe.ch,Postdoctoral Research Fellow
+maria,mallet,Institute of Social and Preventive Medicine (ISPM),"Mallet,_Maria_Christina.html","Mallet, Maria Christina",maria.mallet@unibe.ch,PhD Student
+marilyne,menassa,Institute of Social and Preventive Medicine (ISPM),"Menassa,_Marilyne.html","Menassa, Marilyne",marilyne.menassa@unibe.ch,PhD Student
+bea,minder,Institute of Social and Preventive Medicine (ISPM),"Minder,_Beatrice.html","Minder, Beatrice",bea.minder@unibe.ch,Information Specialist/Librarian
+shelagh,redmond,Institute of Social and Preventive Medicine (ISPM),"Redmond,_Shelagh.html","Redmond, Shelagh",shelagh.redmond@unibe.ch,Medical coding and data quality management
+stephan,reichenbach,Institute of Social and Preventive Medicine (ISPM),"Reichenbach,_Stephan.html","Reichenbach, Stephan",stephan.reichenbach@unibe.ch,Head of Research Group
+julien,riou,Institute of Social and Preventive Medicine (ISPM),"Riou,_Julien_Yannis.html","Riou, Julien Yannis",julien.riou@unibe.ch,Postdoctoral Research Fellow
+eliane,rohner,Institute of Social and Preventive Medicine (ISPM),"Rohner,_Eliane.html","Rohner, Eliane",eliane.rohner@unibe.ch,Head of Research Group
+yann,ruffieux,Institute of Social and Preventive Medicine (ISPM),"Ruffieux,_Yann.html","Ruffieux, Yann",yann.ruffieux@unibe.ch,Research Associate
+noushin,sadat,Institute of Social and Preventive Medicine (ISPM),"Sadat_Ahanchi,_Noushin.html","Sadat Ahanchi, Noushin",noushin.sadat@unibe.ch,PhD student
+dante,salvador,Institute of Social and Preventive Medicine (ISPM),"Salvador,_Dante_Jr=2E.html","Salvador, Dante Jr.",dante.salvador@unibe.ch,PhD Student
+christina,schindera,Institute of Social and Preventive Medicine (ISPM),"Schindera,_Christina.html","Schindera, Christina",christina.schindera@unibe.ch,Postdoctoral Research Fellow
+kurt,schmidlin,Institute of Social and Preventive Medicine (ISPM),"Schmidlin,_Kurt.html","Schmidlin, Kurt",kurt.schmidlin@unibe.ch,Senior Research Fellow
+leonie,schreck,Institute of Social and Preventive Medicine (ISPM),"Schreck,_Leonie_Daria.html","Schreck, Leonie Daria",leonie.schreck@unibe.ch,PhD student
+tiana,schwab,Institute of Social and Preventive Medicine (ISPM),"Schwab,_Tiana_Carina.html","Schwab, Tiana Carina",tiana.schwab@unibe.ch,PhD Student
+david,schwappach,Institute of Social and Preventive Medicine (ISPM),"Schwappach,_David.html","Schwappach, David",david.schwappach@unibe.ch,Associate professor
+ben,spycher,Institute of Social and Preventive Medicine (ISPM),"Spycher,_Ben.html","Spycher, Ben",ben.spycher@unibe.ch,Head of Research Group
+robert,staeck,Institute of Social and Preventive Medicine (ISPM),"Staeck,_Robert.html","Staeck, Robert",robert.staeck@unibe.ch,PhD student
+nicole,steck,Institute of Social and Preventive Medicine (ISPM),"Steck,_Nicole.html","Steck, Nicole",nicole.steck@unibe.ch,Postdoctoral Research Fellow
+thomai,tonia,Institute of Social and Preventive Medicine (ISPM),"Tonia,_Thomai.html","Tonia, Thomai",thomai.tonia@unibe.ch,"Researcher, Senior Methodologist"
+anne,tscherter,Institute of Social and Preventive Medicine (ISPM),"Tscherter,_Anne.html","Tscherter, Anne",anne.tscherter@unibe.ch,Project Coordinator
+patric,wyss,Institute of Social and Preventive Medicine (ISPM),"Wyssmann,_Patrick_Olivier.html","Wyssmann, Patrick Olivier",patric.wyss@unibe.ch,Postdoctoral Research Fellow
+sofia,zambrano,Institute of Social and Preventive Medicine (ISPM),"Zambrano_Ramos,_Sofia_Carolina.html","Zambrano Ramos, Sofia Carolina",sofia.zambrano@unibe.ch,Head of Research Group
+raschid,setoud,Department for BioMedical Research (DBMR),"Setoud,_Raschid.html","Setoud, Raschid",raschid.setoud@unibe.ch,Deputy Operations Manager
+ursula,wolf,Institute of Complementary and Integrative Medicine,"Wolf,_Ursula.html","Wolf, Ursula",ursula.wolf@unibe.ch,Director and Head of group Anthroposophically extended Medicine
+stephan,baumgartner,Institute of Complementary and Integrative Medicine,"Baumgartner,_Stephan.html","Baumgartner, Stephan",stephan.baumgartner@unibe.ch,Debuty Director and Head of group Classical Homeopathy / Potentized substances
+tarcisi,cantieni,Institute of Complementary and Integrative Medicine,"Cantieni,_Tarcisi.html","Cantieni, Tarcisi",tarcisi.cantieni@unibe.ch,PhD Student
+sabine,klein,Institute of Complementary and Integrative Medicine,"Klein,_Sabine.html","Klein, Sabine",sabine.klein@unibe.ch,Research associate
+oliver,kress,Institute of Complementary and Integrative Medicine,"Kress,_Oliver.html","Kress, Oliver",oliver.kress@unibe.ch,Research associate
+felix,scholkmann,Institute of Complementary and Integrative Medicine,"Scholkmann,_Felix_Vishnu.html","Scholkmann, Felix Vishnu",felix.scholkmann@unibe.ch,Research associate
+alexander,tournier,Institute of Complementary and Integrative Medicine,"Tournier,_Alexander.html","Tournier, Alexander",alexander.tournier@unibe.ch,Research associate
+hamoon,zohdi,Institute of Complementary and Integrative Medicine,"Zohdi,_Hamoon.html","Zohdi, Hamoon",hamoon.zohdi@unibe.ch,Research associate
+lorenz,fischer,Institute of Complementary and Integrative Medicine,"Fischer,_Lorenz.html","Fischer, Lorenz",lorenz.fischer@unibe.ch,Docent Neural Therapy
+monika,a,ARTORG Center for Biomedical Engineering Research,"Bandi,_Monika.html","Bandi, Monika",monika.a.kugemann@unibe.ch,Communications Lead
+andrew,macpherson,Bern Center for Precision Medicine (BCPM),"Macpherson,_Andrew.html","Macpherson, Andrew",andrew.macpherson@insel.ch,
+marco,valgimigli,Bern Center for Precision Medicine (BCPM),"Valgimigli,_Marco.html","Valgimigli, Marco",marco.valgimigli@insel.ch,
+christian,rosser,sitem Center for Translational Medicine and Biomedical Entrepreneurship,"Rosser,_Christian.html","Rosser, Christian",christian.rosser@sitem-insel.ch,Interim Director of School
+roland,wiest,Center for Artificial Intelligence in Medicine,"Wiest,_Roland_Gerhard_Rudi.html","Wiest, Roland Gerhard Rudi",roland.wiest@insel.ch,Co-Responsible Digitalization & AI Education
+eva,segelov,Department of Clinical Research (DCR),"Segelov,_Eva_=28A=29.html","Segelov, Eva (A)",eva.segelov@unibe.ch,Director DCR
+poorya,amini,Department of Clinical Research (DCR),"Amini,_Poorya.html","Amini, Poorya",poorya.amini@unibe.ch,Clinical Study Manager
+sheila,appadoo,Department of Clinical Research (DCR),"Appadoo,_Sheila.html","Appadoo, Sheila",sheila.appadoo@unibe.ch,Clinical Data Manager
+kathrin,bieri,Department of Clinical Research (DCR),"Bieri,_Kathrin.html","Bieri, Kathrin",kathrin.bieri@unibe.ch,Clinical Study Manager
+konstantina,chalkou,Department of Clinical Research (DCR),"Chalkou,_Konstantina.html","Chalkou, Konstantina",konstantina.chalkou@unibe.ch,Senior Statistician
+samantha,chan,Department of Clinical Research (DCR),"Chan,_Samantha_=28A=29.html","Chan, Samantha (A)",samantha.chan@unibe.ch,Clinical Study Manager
+alan,haynes,Department of Clinical Research (DCR),"Haynes,_Alan.html","Haynes, Alan",alan.haynes@unibe.ch,Senior Statistician
+dierik,heg,Department of Clinical Research (DCR),"Heg,_Dierik_Hans.html","Heg, Dierik Hans",dierik.heg@unibe.ch,Senior Statistical Consultant 'Cardiovascular Health'
+eva,joho,Department of Clinical Research (DCR),"Joho,_Eva.html","Joho, Eva",eva.joho@unibe.ch,Clinical Data Manager
+andreas,limacher,Department of Clinical Research (DCR),"Limacher,_Andreas.html","Limacher, Andreas",andreas.limacher@unibe.ch,Head of Statistics and Methodology
+sylvain,losdat,Department of Clinical Research (DCR),"Losdat,_Sylvain_Pierre.html","Losdat, Sylvain Pierre",sylvain.losdat@unibe.ch,Senior Statistician
+mario,b,Department of Clinical Research (DCR),"Barone,_Mario.html","Barone, Mario",mario.b.moser@unibe.ch,Clinical Data Manager
+felix,rintelen,Department of Clinical Research (DCR),"Rintelen,_Felix.html","Rintelen, Felix",felix.rintelen@unibe.ch,Head of Clinical Study Management
+marie,roumet,Department of Clinical Research (DCR),"Roumet,_Marie_Camille.html","Roumet, Marie Camille",marie.roumet@unibe.ch,Senior Statistician
+odile,stalder,Department of Clinical Research (DCR),"Stalder,_Odile.html","Stalder, Odile",odile.stalder@unibe.ch,Senior Statistician
+kristina,stojkov,Department of Clinical Research (DCR),"Stojkov,_Kristina.html","Stojkov, Kristina",kristina.stojkov@unibe.ch,Clinical Study Manager
+agatha,wisse,Department of Clinical Research (DCR),"Wisse,_Agatha_Catarina.html","Wisse, Agatha Catarina",agatha.wisse@unibe.ch,Clinical Data Manager
+michael,kaess,Universitäre Psychiatrische Dienste (UPD),"Kaess,_Michael.html","Kaess, Michael",michael.kaess@upd.ch,Clinical Director / Chair of Child and Adolescent Psychiatry / Head of Research
+jochen,kindler,Universitäre Psychiatrische Dienste (UPD),"Kindler,_Jochen.html","Kindler, Jochen",jochen.kindler@upd.unibe.ch,Associate Professor / Group Leader
+marialuisa,cavelti,Universitäre Psychiatrische Dienste (UPD),"Cavelti,_Marialuisa_=28A=29.html","Cavelti, Marialuisa (A)",marialuisa.cavelti@upd.unibe.ch,Deputy Head of Research / Group Leader
+chantal,michel,Universitäre Psychiatrische Dienste (UPD),"Michel,_Chantal.html","Michel, Chantal",chantal.michel@upd.unibe.ch,Group Leader
+corinna,reichl,Universitäre Psychiatrische Dienste (UPD),"Reichl,_Corinna.html","Reichl, Corinna",corinna.reichl@upd.unibe.ch,Postdoc researcher
+andrea,wyssen,Universitäre Psychiatrische Dienste (UPD),"Wyssen,_Andrea.html","Wyssen, Andrea",andrea.wyssen@upd.unibe.ch,Postdoc researcher
+Christian,Hertel,Universitäre Psychiatrische Dienste (UPD),"Hertel,_Christian.html","Hertel, Christian",Christian.Hertel@upd.ch,Postdoc researcher
+armita,tschitsaz,Universitäre Psychiatrische Dienste (UPD),"Tschitsaz,_Armita.html","Tschitsaz, Armita",armita.tschitsaz@upd.ch,Postdoc researcher
+annekatrin,steinhoff,Universitäre Psychiatrische Dienste (UPD),"Steinhoff,_Annekatrin.html","Steinhoff, Annekatrin",annekatrin.steinhoff@upd.unibe.ch,Postdoc researcher
+giulia,rinaldi,Universitäre Psychiatrische Dienste (UPD),"Rinaldi,_Giulia.html","Rinaldi, Giulia",giulia.rinaldi@upd.unibe.ch,PhD student
+chiara,fontanellaz,Universitäre Psychiatrische Dienste (UPD),"Fontanellaz-Castiglione,_Chiara_Emilia_Gaia.html","Fontanellaz-Castiglione, Chiara Emilia Gaia",chiara.fontanellaz@upd.unibe.ch,PhD Student
+franziska,rockstroh,Universitäre Psychiatrische Dienste (UPD),"Rockstroh,_Franziska.html","Rockstroh, Franziska",franziska.rockstroh@upd.unibe.ch,PhD student
+nicole,hedinger,Universitäre Psychiatrische Dienste (UPD),"Hedinger,_Nicole.html","Hedinger, Nicole",nicole.hedinger@upd.unibe.ch,PhD student
+sabine,nafzger,Universitäre Psychiatrische Dienste (UPD),"Nafzger,_Sabine_Naomi.html","Nafzger, Sabine Naomi",sabine.nafzger@upd.unibe.ch,PhD student
+johanna,klar,Universitäre Psychiatrische Dienste (UPD),"Klar,_Johanna.html","Klar, Johanna",johanna.klar@upd.unibe.ch,PhD student
+thomas,dierks,Universitäre Psychiatrische Dienste (UPD),"Dierks,_Thomas.html","Dierks, Thomas",thomas.dierks@unibe.ch,Division Head
+sebastian,walther,Universitäre Psychiatrische Dienste (UPD),"Walther,_Sebastian.html","Walther, Sebastian",sebastian.walther@unibe.ch,Division Head
+katharina,stegmayer,Universitäre Psychiatrische Dienste (UPD),"Stegmayer,_Katharina_Deborah_Lena.html","Stegmayer, Katharina Deborah Lena",katharina.stegmayer@unibe.ch,Division Head
+daniela,krneta,Universitäre Psychiatrische Dienste (UPD),"Krneta,_Daniela.html","Krneta, Daniela",daniela.krneta@unibe.ch,Communications Manager
+tobias,bracht,Universitäre Psychiatrische Dienste (UPD),"Bracht,_Tobias.html","Bracht, Tobias",tobias.bracht@unibe.ch,Group Leader
+daniela,hubl,Universitäre Psychiatrische Dienste (UPD),"Hubl,_Daniela.html","Hubl, Daniela",daniela.hubl@unibe.ch,Group Leader
+martin,jandl,Universitäre Psychiatrische Dienste (UPD),"Jandl,_Martin.html","Jandl, Martin",martin.jandl@upd.unibe.ch,Group Leader
+zeno,kupper,Universitäre Psychiatrische Dienste (UPD),"Kupper,_Zeno.html","Kupper, Zeno",zeno.kupper@upd.unibe.ch,
+franz,moggi,Universitäre Psychiatrische Dienste (UPD),"Moggi,_Franz_=28A=29.html","Moggi, Franz (A)",franz.moggi@upd.unibe.ch,"Head of the Clinical Psychology Service, Addiction Research Group, Psychological Head of the Center of Compentence in Psychotherapy"
+yosuke,morishima,Universitäre Psychiatrische Dienste (UPD),"Morishima,_Yosuke.html","Morishima, Yosuke",yosuke.morishima@upd.unibe.ch,Group Leader
+mario,pfammatter,Universitäre Psychiatrische Dienste (UPD),"Pfammatter,_Mario.html","Pfammatter, Mario",mario.pfammatter@upd.unibe.ch,Group Leader
+leila,soravia,Universitäre Psychiatrische Dienste (UPD),"Soravia,_Leila.html","Soravia, Leila",leila.soravia@unibe.ch,Group leader at UPD; Head of research at Clinic Südhang
+maria,stein,Universitäre Psychiatrische Dienste (UPD),"Helfenstein,_Maria.html","Helfenstein, Maria",maria.stein@upd.unibe.ch,"Group leader at UPD, Lecturer and senior researcher at Department for clinical psychology and psychotherapy, University of Bern"
+frauke,conring,Universitäre Psychiatrische Dienste (UPD),"Conring,_Frauke.html","Conring, Frauke",frauke.conring@unibe.ch,PhD Student
+sarah,diezig,Universitäre Psychiatrische Dienste (UPD),"Diezig,_Sarah.html","Diezig, Sarah",sarah.diezig@upd.unibe.ch,PhD Student
+francilia,zengaffinen,Universitäre Psychiatrische Dienste (UPD),"Zengaffinen,_Francilia_Sabrina.html","Zengaffinen, Francilia Sabrina",francilia.zengaffinen@unibe.ch,PhD-Student
+andreas,altorfer,Universitäre Psychiatrische Dienste (UPD),"Altorfer,_Andreas.html","Altorfer, Andreas",andreas.altorfer@upd.unibe.ch,
+andrea,federspiel,Universitäre Psychiatrische Dienste (UPD),"Federspiel,_Andrea.html","Federspiel, Andrea",andrea.federspiel@unibe.ch,
+gregor,hasler,Universitäre Psychiatrische Dienste (UPD),"Hasler,_Gregor.html","Hasler, Gregor",gregor.hasler@unifr.ch,
+Christoph,Nissen,Universitäre Psychiatrische Dienste (UPD),"Nissen,_Christoph.html","Nissen, Christoph",Christoph.Nissen@hcuge.ch,"professor (Ordinarius) and chief physician, Division of psychiatric specialties, University of Geneva"
+ariane,orosz,Universitäre Psychiatrische Dienste (UPD),"Orosz,_Ariane.html","Orosz, Ariane",ariane.orosz@upd.unibe.ch,
+kristina,rohde,Universitäre Psychiatrische Dienste (UPD),"Rohde,_Kristina_Barbara_=28A=29.html","Rohde, Kristina Barbara (A)",kristina.rohde@upd.unibe.ch,
+antje,stahnke,Universitäre Psychiatrische Dienste (UPD),"Stahnke,_Antje.html","Stahnke, Antje",antje.stahnke@upd.unibe.ch,PhD-Student
+wolfgang,tschacher,Universitäre Psychiatrische Dienste (UPD),"Tschacher,_Wolfgang.html","Tschacher, Wolfgang",wolfgang.tschacher@upd.unibe.ch,Affiliated Researcher
+jessica,peter,Universitäre Psychiatrische Dienste (UPD),"Peter,_Jessica.html","Peter, Jessica",jessica.peter@upd.unibe.ch,"Associate Professor, Head of Research, Group Leader"
+simone,schuller,Small Animal Clinic,"Schuller,_Simone.html","Schuller, Simone",simone.schuller@unibe.ch,Dipl. ECVIM-CA
+helene,rohrbach,Small Animal Clinic,"Rohrbach,_Helene.html","Rohrbach, Helene",helene.rohrbach@unibe.ch,Dipl. ECVAA
+vinzenz,gerber,Equine Clinic,"Gerber,_Vinzenz.html","Gerber, Vinzenz",vinzenz.gerber@unibe.ch,"PhD, Dipl. ACVIM, Dipl. ECEIM, FVH"
+christoph,koch,Equine Clinic,"Koch,_Christoph.html","Koch, Christoph",christoph.koch@unibe.ch,"Dipl. ACVS, ECVS"
+lucia,unger,Equine Clinic,"Unger,_Lucia.html","Unger, Lucia",lucia.unger@unibe.ch,"PD, PhD, Dipl. ECEIM"
+claudia,graubner,Equine Clinic,"Graubner,_Claudia.html","Graubner, Claudia",claudia.graubner@unibe.ch,Dipl. ECEIM
+sophie,sage,Equine Clinic,"Sage,_Sophie_Elena.html","Sage, Sophie Elena",sophie.sage@unibe.ch,Dipl. ACVIM
+thimo,maurer,Equine Clinic,"Maurer,_Thimo.html","Maurer, Thimo",thimo.maurer@unibe.ch,Resident ECVS
+solange,oesch,Equine Clinic,"Oesch,_Solange_Rachel.html","Oesch, Solange Rachel",solange.oesch@unibe.ch,Residentin ECEIM
+michelle,wyler,Equine Clinic,"Wyler,_Michelle.html","Wyler, Michelle",michelle.wyler@vetsuisse.unibe.ch,Residentin ECEIM
+garance,christen,Equine Clinic,"Christen,_Garance_Anne.html","Christen, Garance Anne",garance.christen@unibe.ch,Wissenschaftliche Mitarbeiterin
+franziska,wohlfender,Equine Clinic,"Remy-Wohlfender,_Franziska.html","Remy-Wohlfender, Franziska",franziska.wohlfender@unibe.ch,Wissenschaftliche Mitarbeiterin Equinella
+claudia,spadavecchia,Clinical Anesthesiology,"Spadavecchia,_Claudia.html","Spadavecchia, Claudia",claudia.spadavecchia@unibe.ch,"Dipl. ECVAA, PhD"
+shannon,axiak,Clinical Anesthesiology,"Axiak,_Shannon.html","Axiak, Shannon",shannon.axiak@unibe.ch,Dipl. ACVAA
+isabelle,iff,Clinical Anesthesiology,"Iff,_Isabelle_Karin.html","Iff, Isabelle Karin",isabelle.iff@unibe.ch,"Dipl. ECVAA, CertVetAc(IVAS), LicAc(BAWMA), MRCVS"
+marta,kantyka,Clinical Anesthesiology,"Kantyka,_Marta_Ewelina.html","Kantyka, Marta Ewelina",marta.kantyka@unibe.ch,Dipl. ECVAA
+alessandro,mirra,Clinical Anesthesiology,"Mirra,_Alessandro.html","Mirra, Alessandro",alessandro.mirra@unibe.ch,Dipl. ECVAA
+ute,morath,Clinical Anesthesiology,"Morath,_Ute.html","Morath, Ute",ute.morath@unibe.ch,Dipl. ECVAA
+ekaterina,gamez,Clinical Anesthesiology,"Gamez_Maidanskaia,_Ekaterina.html","Gamez Maidanskaia, Ekaterina",ekaterina.gamez@unibe.ch,
+larissa,buser,Clinical Anesthesiology,"Buser,_Larissa_Irina.html","Buser, Larissa Irina",larissa.buser@unibe.ch,
+sarah,hubler,Clinical Anesthesiology,"Hubler,_Sarah.html","Hubler, Sarah",sarah.hubler@unibe.ch,Tierärztin
+elisabeth,dietschi,Clinical Dermatology,"Dietschi,_Elisabeth.html","Dietschi, Elisabeth",elisabeth.dietschi@unibe.ch,
+laureen,peters,Clinical Laboratory,"Peters,_Laureen_Mich=E8le.html","Peters, Laureen Michèle",laureen.peters@unibe.ch,Oberassistentin
+veronika,stein,Clinical Neurology,"Stein,_Veronika_Maria.html","Stein, Veronika Maria",veronika.stein@unibe.ch,"PhD, Dipl. ECVN"
+arianna,maiolini,Clinical Neurology,"Maiolini,_Arianna.html","Maiolini, Arianna",arianna.maiolini@unibe.ch,"PhD, Dipl. ECVN"
+guillaume,dutil,Clinical Neurology,"Dutil,_Guillaume_Fabien.html","Dutil, Guillaume Fabien",guillaume.dutil@unibe.ch,Resident
+alexane,durand,Clinical Radiology,"Durand,_Alexane_Marie_Andr=E9e.html","Durand, Alexane Marie Andrée",alexane.durand@unibe.ch,Oberassistentin
+pablo,barge,Clinical Radiology,"Barge_Carmona,_Pablo.html","Barge Carmona, Pablo",pablo.barge@unibe.ch,Oberassistent
+juliette,burg,Clinical Radiology,"Burg-Personnaz,_Juliette_B=E9n=E9dicte.html","Burg-Personnaz, Juliette Bénédicte",juliette.burg@unibe.ch,Resident
+irene,adrian-kalchhauser,Institute for Fish and Wildlife Health,"Adrian-Kalchhauser,_Irene.html","Adrian-Kalchhauser, Irene",irene.adrian-kalchhauser@unibe.ch,Head of Institute
+heike,schmidt,Institute for Fish and Wildlife Health,"Schmidt-Posthaus,_Heike.html","Schmidt-Posthaus, Heike",heike.schmidt@unibe.ch,Head of Fish Division
+mirjam,pewsner,Institute for Fish and Wildlife Health,"Pewsner,_Mirjam_Lea.html","Pewsner, Mirjam Lea",mirjam.pewsner@unibe.ch,Ad Interim Head of Wildlife Division
+tatiana,zingre,Institute for Fish and Wildlife Health,"Zingre,_Tatiana_Paolina.html","Zingre, Tatiana Paolina",tatiana.zingre@unibe.ch,Doctoral candidate. Novel fish viruses.
+simone,pisano,Institute for Fish and Wildlife Health,"Pisano,_Simone_Roberto_Rolando.html","Pisano, Simone Roberto Rolando",simone.pisano@unibe.ch,PhD candidate. Crayfish plague.
+jessica,rieder,Institute for Fish and Wildlife Health,"Rieder_Harrell,_Jessica.html","Rieder Harrell, Jessica",jessica.rieder@unibe.ch,PhD candidate. eDNA and pathogen monitoring.
+moritz,stelzer,Institute for Fish and Wildlife Health,"Stelzer,_Moritz_Maximilian_Ottmar.html","Stelzer, Moritz Maximilian Ottmar",moritz.stelzer@unibe.ch,PhD candidate. PKD eDNA.
+nicolas,diserens,Institute for Fish and Wildlife Health,"Diserens,_Nicolas_Fr=E9d=E9ric.html","Diserens, Nicolas Frédéric",nicolas.diserens@unibe.ch,Senior researcher. Head of ISO 17025 processes.
+gary,delalay,Institute for Fish and Wildlife Health,"Delalay,_Gary.html","Delalay, Gary",gary.delalay@unibe.ch,Senior researcher. BLV liaison.
+iris,marti,Institute for Fish and Wildlife Health,"Marti,_Iris_Andrea.html","Marti, Iris Andrea",iris.marti@unibe.ch,Senior researcher. Head of wildlife immobilisation.
+dragan,stajic,Institute for Fish and Wildlife Health,"Stajic,_Dragan.html","Stajic, Dragan",dragan.stajic@unibe.ch,Postdoc
+james,ord,Institute for Fish and Wildlife Health,"Ord,_James.html","Ord, James",james.ord@unibe.ch,Postdoc (part-time)
+stefania,vannetti,Institute for Fish and Wildlife Health,"Vannetti,_Stefania_Michaela.html","Vannetti, Stefania Michaela",stefania.vannetti@unibe.ch,Postdoc
+caroline,frey,Institute of Parasitology,"Frey_Marreros_Canales,_Caroline_Franziska.html","Frey Marreros Canales, Caroline Franziska",caroline.frey@unibe.ch,"Co-Director and Group Leader (days of presence: mo, wed, thr)"
+walter,basso,Institute of Parasitology,"Basso,_Walter_Ubaldo.html","Basso, Walter Ubaldo",walter.basso@unibe.ch,Group Leader and Head Veterinary Diagnostics
+diana,gliga,Institute of Parasitology,"Gliga,_Diana-Suzana.html","Gliga, Diana-Suzana",diana.gliga@unibe.ch,Doctoral Student
+matias,preza,Institute of Parasitology,"Preza_Perez,_Matias_Facundo.html","Preza Perez, Matias Facundo",matias.preza@unibe.ch,Postdoc
+katharina,a,Institute of Animal Pathology,"Albertin,_Katharina.html","Albertin, Katharina",katharina.a.gerber@unibe.ch,Sekretariat Rechnungswesen
+corinne,gurtner,Institute of Animal Pathology,"Gurtner,_Corinne.html","Gurtner, Corinne",corinne.gurtner@unibe.ch,Oberassistentin
+francesco,origgi,Institute of Animal Pathology,"Origgi,_Francesco.html","Origgi, Francesco",francesco.origgi@unibe.ch,Dozent
+claudia,bachofen,Institute of Virology and Immunology,"Bachofen,_Claudia.html","Bachofen, Claudia",claudia.bachofen@unibe.ch,
+marco,alves,Institute of Virology and Immunology,"Alves,_Marco.html","Alves, Marco",marco.alves@unibe.ch,
+sonja,kittl,Institute of Veterinary Bacteriology,"Kittl,_Sonja_Cornelia.html","Kittl, Sonja Cornelia",sonja.kittl@unibe.ch,
+barbara,drews,Division of Veterinary Anatomy,"Drews,_Barbara.html","Drews, Barbara",barbara.drews@unibe.ch,Wissenschaftliche Mitarbeiterin
+kati,haenssgen,Division of Veterinary Anatomy,"Haenssgen,_Kati.html","Haenssgen, Kati",kati.haenssgen@unibe.ch,"Biologin, Präparatorin"
+michael,stoffel,Division of Veterinary Anatomy,"Stoffel,_Michael_Hubert.html","Stoffel, Michael Hubert",michael.stoffel@unibe.ch,Ehemaliger Abteilungsleiter
+beatriz,vidondo ,Veterinary Public Health Institute,"Vidondo_Curras,_Beatriz_Teresa.html","Vidondo Curras, Beatriz Teresa",beatriz.vidondo @unibe.ch,Scientific associate
+christine,baes,Institute of Genetics,"Baes,_Christine_Francoise.html","Baes, Christine Francoise",christine.baes@unibe.ch,Lecturer
+matthias,christen,Institute of Genetics,"Christen,_Matthias.html","Christen, Matthias",matthias.christen@unibe.ch,PhD student
+sarah,kiener,Institute of Genetics,"Kiener,_Sarah.html","Kiener, Sarah",sarah.kiener@unibe.ch,PhD student
+manuela,funke-chambour,Multidisciplinary Center for Infectious Diseases (MCID),"Funke-Chambour,_Manuela.html","Funke-Chambour, Manuela",manuela.funke-chambour@insel.ch,"Cluster Chair ""Patient-Focused Research"""
+stephen,leib,Multidisciplinary Center for Infectious Diseases (MCID),"Leib,_Stephen.html","Leib, Stephen",stephen.leib@unibe.ch,"Cluster Chair ""Microbiology"""
+gilles,wandeler,Multidisciplinary Center for Infectious Diseases (MCID),"Wandeler,_Gilles.html","Wandeler, Gilles",gilles.wandeler@insel.ch,"Cluster Co-Chair ""Epidemiology"""
+thomas,sauter,Multidisciplinary Center for Infectious Diseases (MCID),"Sauter,_Thomas_Christian.html","Sauter, Thomas Christian",thomas.sauter@insel.ch,"Cluster Co-Chair ""Patient-Focused Research"""
+lia,bally,Multidisciplinary Center for Infectious Diseases (MCID),"Bally,_Lia_Claudia.html","Bally, Lia Claudia",lia.bally@insel.ch,
+Guido,Beldi,Multidisciplinary Center for Infectious Diseases (MCID),"Beldi,_Guido.html","Beldi, Guido",Guido.Beldi@insel.ch,
+heiko,nathues,Multidisciplinary Center for Infectious Diseases (MCID),"Nathues,_Heiko.html","Nathues, Heiko",heiko.nathues@vetsuisse.unibe.ch,
+philippe,plattet,Multidisciplinary Center for Infectious Diseases (MCID),"Plattet,_Philippe.html","Plattet, Philippe",philippe.plattet@vetsuisse.unibe.ch,
+deborah,stroka,Multidisciplinary Center for Infectious Diseases (MCID),"Stroka,_Deborah.html","Stroka, Deborah",deborah.stroka@dbmr.unibe.ch,
+nadine,amsler,Institute of History,"Amsler_Weber,_Nadine_Stefanie.html","Amsler Weber, Nadine Stefanie",nadine.amsler@unibe.ch,"Professeure assistante SNF PRIMA, Université de Fribourg / Associate Researcher at University of Bern"
+daniel,artho,Institute of History,"Artho,_Daniel.html","Artho, Daniel",daniel.artho@unibe.ch,SNSF Research Fellow
+james,barber,Institute of History,"Barber,_James_Henry.html","Barber, James Henry",james.barber@unibe.ch,PhD Student
+giuanna,beeli,Institute of History,"Beeli,_Giuanna.html","Beeli, Giuanna",giuanna.beeli@unibe.ch,PhD Student
+vera,blaser,Institute of History,"Blaser,_Vera.html","Blaser, Vera",vera.blaser@unibe.ch,PhD Student
+sinja,clavadetscher,Institute of History,"Clavadetscher,_Sinja_Anna.html","Clavadetscher, Sinja Anna",sinja.clavadetscher@unibe.ch,PhD Student
+christian,forney,Institute of History,"Forney,_Christian.html","Forney, Christian",christian.forney@unibe.ch,Research Assistant
+leo,grob,Institute of History,"Grob,_Leonie_Florence.html","Grob, Leonie Florence",leo.grob@unibe.ch,Research Assistant
+christian,hadorn,Institute of History,"Hadorn,_Christian.html","Hadorn, Christian",christian.hadorn@unibe.ch,PhD Student
+katharina,hermann,Institute of History,"Hermann,_Katharina_Eleonora.html","Hermann, Katharina Eleonora",katharina.hermann@unibe.ch,PhD Student
+h,e,Institute of History,"Abadier,_Michael_Magdy_Labib.html","Abadier, Michael Magdy Labib",h.e.herzig@quickline.ch,Full Professor of Ancient History and Epigraphy at the Institute of History of the University of Bern from 1980 to 2001
+ilse,hilbold,Institute of History,"Hilbold,_Ilse_Caroline_Abigail.html","Hilbold, Ilse Caroline Abigail",ilse.hilbold@unibe.ch,Associated Researcher
+jannik,lengeling,Institute of History,"Lengeling,_Jannik.html","Lengeling, Jannik",jannik.lengeling@unibe.ch,Assistant
+sonja,matter,Institute of History,"Matter,_Sonja.html","Matter, Sonja",sonja.matter@unibe.ch,Associated Researcher
+elena,natenadze,Institute of History,"Natenadze,_Elena.html","Natenadze, Elena",elena.natenadze@unibe.ch,PhD Student
+noah,oehri,Institute of History,"Oehri,_Noah.html","Oehri, Noah",noah.oehri@unibe.ch,Associated Researcher
+christian,pfister,Institute of History,"Pfister,_Christian.html","Pfister, Christian",christian.pfister@unibe.ch,"Prof. emeritus for Economic, Social and Environmental History"
+heinz,rohner,Institute of History,"Rohner,_Heinz.html","Rohner, Heinz",heinz.rohner@unibe.ch,Research Associate
+a,ruprecht,Institute of History,"Ruprecht,_Ivan.html","Ruprecht, Ivan",a.ruprecht@gmail.com,Former employee
+stefanie,salvisberg,Institute of History,"Salvisberg,_Stefanie.html","Salvisberg, Stefanie",stefanie.salvisberg@unibe.ch,PhD Student
+regula,schmid,Institute of History,"Schmid,_Regula.html","Schmid, Regula",regula.schmid@unibe.ch,Associate Professor of Medieval History
+christa,schneider,Institute of History,"Schneider,_Christa.html","Schneider, Christa",christa.schneider@unibe.ch,Associated Researcher
+rainer,schwinges,Institute of History,"Schwinges,_Rainer_Christoph.html","Schwinges, Rainer Christoph",rainer.schwinges@unibe.ch,Prof. emeritus of General History of the Middle Ages
+kaspar,staub,Institute of History,"Staub,_Kaspar.html","Staub, Kaspar",kaspar.staub@unibe.ch,Senior Scientist
+brigitte,studer,Institute of History,"Studer,_Brigitte.html","Studer, Brigitte",brigitte.studer@unibe.ch,Prof. emerita for Swiss and Modern General History
+alexander,thies,Institute of History,"Thies,_Alexander.html","Thies, Alexander",alexander.thies@unibe.ch,PhD Student
+marcella,boglione,Institute of Archaeological Sciences,"Boglione,_Marcella.html","Boglione, Marcella",marcella.boglione@unibe.ch,"Wissenschaftliche Mitarbeiterin, Feldforschung"
+matthias,bolliger,Institute of Archaeological Sciences,"Bolliger,_Matthias.html","Bolliger, Matthias",matthias.bolliger@iaw.unibe.ch,Projektmitarbeiter ERC
+sebastian,borkowski,Institute of Archaeological Sciences,"Borkowski,_Sebastian_Georg.html","Borkowski, Sebastian Georg",sebastian.borkowski@iaw.unibe.ch,"Mitarbeiter ""Die Flüsse des Zweistromlandes"""
+m,e,Institute of Archaeological Sciences,"Abadier,_Michael_Magdy_Labib.html","Abadier, Michael Magdy Labib",m.e.carafa@hotmail.ch,Doktorandin
+matthias,edel,Institute of Archaeological Sciences,"Edel,_Matthias.html","Edel, Matthias",matthias.edel@unibe.ch,Doktorand
+gabriele,elsen,Institute of Archaeological Sciences,"Elsen-Nov=E1k,_Gabriele_Eva.html","Elsen-Novák, Gabriele Eva",gabriele.elsen@iaw.unibe.ch,Projektmitarbeiterin Tell Halaf
+michel,franz,Institute of Archaeological Sciences,"Franz,_Michel_Alexander.html","Franz, Michel Alexander",michel.franz@iaw.unibe.ch,Wissenschaftlicher Mitarbeiter
+max,r,Institute of Archaeological Sciences,"Amsler,_Maximilian_Kei.html","Amsler, Maximilian Kei",max.r.gander@gmail.com,Assoziierter Forscher
+marco,hostettler,Institute of Archaeological Sciences,"Hostettler,_Marco.html","Hostettler, Marco",marco.hostettler@iaw.unibe.ch,"Doktorand, ERC"
+silvana,hunger,Institute of Archaeological Sciences,"Hunger,_Silvana.html","Hunger, Silvana",silvana.hunger@iaw.unibe.ch,"Doktorandin, Projektmitarbeiterin ""Sirkeli Höyük"""
+katarzyna,langenegger,Institute of Archaeological Sciences,"Langenegger,_Katarzyna_Ewa.html","Langenegger, Katarzyna Ewa",katarzyna.langenegger@iaw.unibe.ch,"Doktorandin, Projektmitarbeiterin ""Gonur Depe"""
+cynthia,marti,Institute of Archaeological Sciences,"Marti,_Cynthia_Yi.html","Marti, Cynthia Yi",cynthia.marti@iaw.unibe.ch,Koordinatorin
+joseph,roe,Institute of Archaeological Sciences,"Roe,_Joseph_Alexander.html","Roe, Joseph Alexander",joseph.roe@iaw.unibe.ch,"Projektmitarbeiter, SNF"
+urs,rohrbach,Institute of Archaeological Sciences,"Rohrbach,_Urs.html","Rohrbach, Urs",urs.rohrbach@iaw.unibe.ch,"Doktorand, Projektmitarbeiter"
+delphine,schiess,Institute of Archaeological Sciences,"Schiess,_Delphine_Gwendoline.html","Schiess, Delphine Gwendoline",delphine.schiess@iaw.unibe.ch,"Doktorandin, SNF"
+regine,stapfer,Institute of Archaeological Sciences,"Stapfer,_Regine_Barbara.html","Stapfer, Regine Barbara",regine.stapfer@iaw.unibe.ch,Assoziierte Forscherin
+debora,tretola,Institute of Archaeological Sciences,"Tretola_Martinez,_Debora_Cristina.html","Tretola Martinez, Debora Cristina",debora.tretola@iaw.unibe.ch,Assoziierte Forscherin
+deniz,yasin,Institute of Archaeological Sciences,"Yasin,_Deniz.html","Yasin, Deniz",deniz.yasin@iaw.unibe.ch,"Projektmitarbeiterin ""Sirkeli Höyük"""
+nijmi,edres,Institute for the Study of the Middle East and Muslim Societies,"Edres,_Nijmi.html","Edres, Nijmi",nijmi.edres@unibe.ch,"Assistant Professor, Co-Director"
+laura,rowitz,Institute for the Study of the Middle East and Muslim Societies,"Rowitz,_Laura_Elena.html","Rowitz, Laura Elena",laura.rowitz@unibe.ch,Research Associate and PhD Candidate in the SNF-project TraSIS
+christian,wyler,Institute for the Study of the Middle East and Muslim Societies,"Wyler,_Christian_Mathias.html","Wyler, Christian Mathias",christian.wyler@unibe.ch,Associate researcher
+reinhard,schulze,Institute for the Study of the Middle East and Muslim Societies,"Schulze,_Reinhard.html","Schulze, Reinhard",reinhard.schulze@unibe.ch,Emeritus
+jasmin,goll,The Institute of Musicology,"Goll,_Jasmin.html","Goll, Jasmin",jasmin.goll@unibe.ch,Doktorandin im Bereich Musiktheater
+florian,bassani,The Institute of Musicology,"Bassani,_Florian.html","Bassani, Florian",florian.bassani@unibe.ch,Privatdozent
+vincenzina,ottomano,The Institute of Musicology,"Ottomano,_Vincenzina.html","Ottomano, Vincenzina",vincenzina.ottomano@unibe.ch,Bereich Historische Musikwissenschaft
+maria,caceres,The Institute of Musicology,"Caceres,_Maria.html","Caceres, Maria",maria.caceres@unibe.ch,Assoziierte Forscherin
+laura,moeckli,The Institute of Musicology,"Moeckli,_Laura_Elisabeth.html","Moeckli, Laura Elisabeth",laura.moeckli@unibe.ch,Postdoktorandin
+martin,bondeli,Institute of Philosophy,"Bondeli,_Martin.html","Bondeli, Martin",martin.bondeli@unibe.ch,Privatdozent
+thomas,kesselring,Institute of Philosophy,"Kesselring,_Thomas.html","Kesselring, Thomas",thomas.kesselring@unibe.ch,Privatdozent
+david,machek,Institute of Philosophy,"Machek,_David.html","Machek, David",david.machek@unibe.ch,Privatdozent
+marcello,ruta,Institute of Philosophy,"Ruta,_Marcello.html","Ruta, Marcello",marcello.ruta@unibe.ch,Privatdozent
+andreas,verdun,Institute of Philosophy,"Verdun,_Andreas.html","Verdun, Andreas",andreas.verdun@unibe.ch,
+eduard,marbach,Institute of Philosophy,"Marbach,_Eduard.html","Marbach, Eduard",eduard.marbach@philo.unibe.ch,Emeritus
+matthias,b,Institute for the Science of Religion,"Bachtler,_Matthias.html","Bachtler, Matthias",matthias.b.lehner@unibe.ch,IT-Support
+sarah,perez,Institute for the Science of Religion,"Perez_Kuwald,_Sarah.html","Perez Kuwald, Sarah",sarah.perez@unibe.ch,Assistant
+mogi,batmunkh,Institute for the Science of Religion,"Batmunkh,_Mogi.html","Batmunkh, Mogi",mogi.batmunkh@unibe.ch,Associated Researcher
+mara,arizaga,Institute for the Science of Religion,"Arizaga,_Mara_Lisa.html","Arizaga, Mara Lisa",mara.arizaga@unibe.ch,Assistant lecturers
+simon,weber,Institute of Social Anthropology,"Weber,_Simon.html","Weber, Simon",simon.weber@unibe.ch,Lecturer
+moslem,ghomashlouyan,Institute of Social Anthropology,"Ghomashlouyan,_Moslem.html","Ghomashlouyan, Moslem",moslem.ghomashlouyan@unibe.ch,Assistant and PhD student
+julia,rehsmann,Institute of Social Anthropology,"Rehsmann,_Julia.html","Rehsmann, Julia",julia.rehsmann@unibe.ch,Research Assistant
+corinne,schwaller,Institute of Social Anthropology,"Schwaller,_Corinne_Nicole.html","Schwaller, Corinne Nicole",corinne.schwaller@unibe.ch,Assistant
+lisa,alvarado,Institute of Social Anthropology,"Alvarado_Grefa-L=FCscher,_Lisa.html","Alvarado Grefa-Lüscher, Lisa",lisa.alvarado@unibe.ch,PhD student
+lucie,benoit,Institute of Social Anthropology,"Benoit,_Lucie.html","Benoit, Lucie",lucie.benoit@unibe.ch,Doktorandin
+manon-julie,borel,Institute of Social Anthropology,"Borel,_Manon-Julie.html","Borel, Manon-Julie",manon-julie.borel@unibe.ch,PhD student
+andrea,bordoli,Institute of Social Anthropology,"Bordoli,_Andrea.html","Bordoli, Andrea",andrea.bordoli@unibe.ch,PhD Student
+maya,ober,Institute of Social Anthropology,"Ober,_Maya.html","Ober, Maya",maya.ober@unibe.ch,PHD Student
+kiri,santer,Institute of Social Anthropology,"Santer,_Kiri_Olivia.html","Santer, Kiri Olivia",kiri.santer@unibe.ch,Assistant
+samuel,weissman,Institute of Social Anthropology,"Weissman,_Samuel.html","Weissman, Samuel",samuel.weissman@unibe.ch,Research Assistant
+ariane,zangger,Institute of Social Anthropology,"Zangger,_Ariane_Nora.html","Zangger, Ariane Nora",ariane.zangger@unibe.ch,PhD Student
+edouard,conte,Institute of Social Anthropology,"Conte,_Edouard.html","Conte, Edouard",edouard.conte@unibe.ch,ehemaliger Direktor
+wolfgang,marschall,Institute of Social Anthropology,"Marschall,_Wolfgang.html","Marschall, Wolfgang",wolfgang.marschall@unibe.ch,ehemaliger Direktor
+hans-rudolf,wicker,Institute of Social Anthropology,"Wicker,_Hans-Rudolf.html","Wicker, Hans-Rudolf",hans-rudolf.wicker@unibe.ch,ehemaliger Direktor
+selina,felber,Institute of Social Anthropology,"Felber,_Selina_Chiara.html","Felber, Selina Chiara",selina.felber@unibe.ch,PhD student
+rahel,jud,Institute of Social Anthropology,"Jud,_Rahel_Nina_Anna.html","Jud, Rahel Nina Anna",rahel.jud@unibe.ch,Research Assistant and PhD student
+andrea,abraham,Institute of Social Anthropology,"Abraham,_Andrea.html","Abraham, Andrea",andrea.abraham@bfh.ch,Associated Researcher
+annina,aeberli,Institute of Social Anthropology,"Aeberli,_Annina_Rahel.html","Aeberli, Annina Rahel",annina.aeberli@unibe.ch,associated researcher
+anne,chabeda,Institute of Social Anthropology,"Chabeda_Barthe,_Anne_Jemaiyo.html","Chabeda Barthe, Anne Jemaiyo",anne.chabeda@unibe.ch,associated researcher
+serena,dankwa,Institute of Social Anthropology,"Dankwa,_Serena_Owusua.html","Dankwa, Serena Owusua",serena.dankwa@unibe.ch,assoziierte Forscherin
+eva,fischer,Institute of Social Anthropology,"Fischer,_Eva.html","Fischer, Eva",eva.fischer@unibe.ch,Associated Researcher
+judith,hangartner,Institute of Social Anthropology,"Hangartner,_Judith.html","Hangartner, Judith",judith.hangartner@unibe.ch,Associated Researcher
+madlen,kobi,Institute of Social Anthropology,"Kobi,_Madlen.html","Kobi, Madlen",madlen.kobi@unibe.ch,Associated Researcher
+johanna,mugler,Institute of Social Anthropology,"Mugler,_Johanna.html","Mugler, Johanna",johanna.mugler@unibe.ch,associated researcher
+adrian,linder,Institute of Social Anthropology,"Linder,_Adrian.html","Linder, Adrian",adrian.linder@unibe.ch,Associated Researcher
+sibylle,lustenberger,Institute of Social Anthropology,"Lustenberger,_Sibylle.html","Lustenberger, Sibylle",sibylle.lustenberger@unibe.ch,Associated Researcher
+thomas,niederberger,Institute of Social Anthropology,"Niederberger,_Thomas_Ibrahim_Immanuel.html","Niederberger, Thomas Ibrahim Immanuel",thomas.niederberger@unibe.ch,PhD student
+britta,ohm,Institute of Social Anthropology,"Ohm,_Britta_Lucia_Ida.html","Ohm, Britta Lucia Ida",britta.ohm@unibe.ch,Associated Researcher
+martina,santschi,Institute of Social Anthropology,"Santschi,_Martina.html","Santschi, Martina",martina.santschi@unibe.ch,Associated Researcher
+pascale,schild,Institute of Social Anthropology,"Schild,_Pascale.html","Schild, Pascale",pascale.schild@unibe.ch,Associated Researcher
+anja,sieber,Institute of Social Anthropology,"Sieber,_Anja.html","Sieber, Anja",anja.sieber@unibe.ch,Associated Researcher
+veronika,siegl,Institute of Social Anthropology,"Siegl,_Veronika.html","Siegl, Veronika",veronika.siegl@unibe.ch,Associated Researcher
+eva,soom,Institute of Social Anthropology,"Soom_Ammann,_Eva.html","Soom Ammann, Eva",eva.soom@unibe.ch,Associated Researcher
+angela,stienen,Institute of Social Anthropology,"Stienen,_Angela.html","Stienen, Angela",angela.stienen@unibe.ch,Assoziierte Forscherin
+michael,toggweiler,Institute of Social Anthropology,"Toggweiler,_Michael.html","Toggweiler, Michael",michael.toggweiler@unibe.ch,Associated Researcher and Guest Lecturer
+jelena,tosic,Institute of Social Anthropology,"Tosic,_Jelena.html","Tosic, Jelena",jelena.tosic@unibe.ch,Associated Researcher
+angelica,wehrli,Institute of Social Anthropology,"Wehrli,_Angelica.html","Wehrli, Angelica",angelica.wehrli@unisg.ch,Associated Researcher
+nele,solf,Institute of Theatre Studies,"Solf,_Nele.html","Solf, Nele",nele.solf@unibe.ch,Research Assistant / Doctoral Student
+nora,steiner,Institute of Theatre Studies,"Steiner,_Nora_Alena.html","Steiner, Nora Alena",nora.steiner@unibe.ch,Research Assistant / Doctoral Student
+anna,barmettler,Institute of Theatre Studies,"Barmettler,_Anna.html","Barmettler, Anna",anna.barmettler@unibe.ch,Project Collaboration Ambizione / Doctoral Student
+alessandro,pellanda,Department of English,"Pellanda,_Alessandro.html","Pellanda, Alessandro",alessandro.pellanda@unibe.ch,Doktorand SNF
+lara,portmann,Department of English,"Portmann,_Lara.html","Portmann, Lara",lara.portmann@unibe.ch,Wissenschaftliche Mitarbeiterin
+danielle,tod,Department of English,"Tod,_Danielle_Natasha.html","Tod, Danielle Natasha",danielle.tod@unibe.ch,Wissenschaftliche Mitarbeiterin
+laura,wohlgemuth,Department of English,"Wohlgemuth,_Laura_Val=E9rie.html","Wohlgemuth, Laura Valérie",laura.wohlgemuth@unibe.ch,Doktorandin SNF
+margaret,bridges,Department of English,"Bridges,_Margaret.html","Bridges, Margaret",margaret.bridges@unibe.ch,
+werner,senn,Department of English,"Senn,_Werner.html","Senn, Werner",werner.senn@unibe.ch,
+sandra,schwab,Institute of French Language and Literature,"Schwab,_Sandra.html","Schwab, Sandra",sandra.schwab@unibe.ch,Maître d’enseignement et de recherche en linguistique française
+ekaterina,tckhovrebova,Institute of French Language and Literature,"Tckhovrebova,_Ekaterina.html","Tckhovrebova, Ekaterina",ekaterina.tckhovrebova@unibe.ch,Doctorante FNS de linguistique dans le cadre du projet de la professeure Sandrine Zufferey
+mathis,wetzel,Institute of French Language and Literature,"Wetzel,_Mathis.html","Wetzel, Mathis",mathis.wetzel@unibe.ch,Doctorant FNS de linguistique dans le cadre du projet de la professeure Sandrine Zufferey
+marc,bonhomme,Institute of French Language and Literature,"Bonhomme,_Marc.html","Bonhomme, Marc",marc.bonhomme@unibe.ch,Professeur émérite de linguistique française
+john,jackson,Institute of French Language and Literature,"Jackson,_John-Edwin.html","Jackson, John-Edwin",john.jackson@unibe.ch,Professeur émérite de littérature française
+martina,heer,Institute of Germanic Languages and Literatures,"Heer,_Martina_Anna.html","Heer, Martina Anna",martina.heer@unibe.ch,Assistant to Prof. Kempf
+jan,zielinski,Institute of Slavic Languages and Literatures,"Zielinski,_Jana.html","Zielinski, Jana",jan.zielinski@unifr.ch,Lehrbeauftragter in Fribourg
+jesse,hancock-teed,Department of Linguistics,"Hancock-Teed,_Jesse_Drew_Nolan.html","Hancock-Teed, Jesse Drew Nolan",jesse.hancock-teed@unibe.ch,Assistent Allgemeine Linguistik
+justyna,jaguscik,Department of Linguistics,"Jaguscik,_Justyna_Aleksandra.html","Jaguscik, Justyna Aleksandra",justyna.jaguscik@unibe.ch,Assistenzdozentin
+stephan,scheuzger,Center for Global Studies (CGS),"Scheuzger,_Stephan.html","Scheuzger, Stephan",stephan.scheuzger@liechtenstein-institut.li,Associated Researcher
+ryan,kopaitich,Center for Global Studies (CGS),"Kopaitich,_Ryan_James.html","Kopaitich, Ryan James",ryan.kopaitich@ens.unibe.ch,
+andrea,rota,Center for Global Studies (CGS),"Rota,_Andrea.html","Rota, Andrea",andrea.rota@relwi.unibe.ch,
+daniel,va,Center for Global Studies (CGS),"Condeescu-Ivan,_Daniela.html","Condeescu-Ivan, Daniela",daniel.va@bluewin.ch,
+christoph,neuenschwander,Center for the Study of Language and Society (CSLS),"Neuenschwander,_Christoph.html","Neuenschwander, Christoph",christoph.neuenschwander@unibe.ch,Study coordinator
+sandra,widmer,Center for the Study of Language and Society (CSLS),"Widmer,_Alessandra.html","Widmer, Alessandra",sandra.widmer@fhnw.ch,CSLS
+thomas,rucker,Institute of Educational Science,"Rucker,_Thomas.html","Rucker, Thomas",thomas.rucker@unibe.ch,Dozent
+kira,ammann,Institute of Educational Science,"Ammann,_Kira_Zena.html","Ammann, Kira Zena",kira.ammann@unibe.ch,Wissenschaftliche Mitarbeiterin
+gaudenz,welti,Institute of Educational Science,"Welti,_Gaudenz.html","Welti, Gaudenz",gaudenz.welti@unibe.ch,Wissenschaftlicher Mitarbeiter
+fritz,osterwalder,Institute of Educational Science,"Osterwalder,_Fritz_=28A=29.html","Osterwalder, Fritz (A)",fritz.osterwalder@unibe.ch,Ehemaliger Ordinarius Abteilung Allgemeine und Historische Pädagogik
+walter,herzog,Institute of Educational Science,"Herzog,_Walter.html","Herzog, Walter",walter.herzog@unibe.ch,Former head of the division
+mathias,mejeh,Institute of Educational Science,"Mejeh,_Mathias_Philip.html","Mejeh, Mathias Philip",mathias.mejeh@unibe.ch,Oberassistent
+simone,halliday,Institute of Educational Science,"Halliday,_Simone_Emily.html","Halliday, Simone Emily",simone.halliday@unibe.ch,Postdoktorandin
+tanja,held,Institute of Educational Science,"Held,_Tanja.html","Held, Tanja",tanja.held@unibe.ch,Postdoktorandin
+iuliia,morinaj,Institute of Educational Science,"Morinaj,_Iuliia.html","Morinaj, Iuliia",iuliia.morinaj@unibe.ch,Advanced Postdoktorandin
+ankica,jurkic,Institute of Educational Science,"Jurkic,_Ankica.html","Jurkic, Ankica",ankica.jurkic@unibe.ch,Doktorandin
+shu-fang,hsu,Institute of Mathematical Statistics and Actuarial Science,"Hsu,_Shu-Fang.html","Hsu, Shu-Fang",shu-fang.hsu@unibe.ch,Lecturer
+hanspeter,bieri,Institute of Computer Science,"Bieri,_Hanspeter.html","Bieri, Hanspeter",hanspeter.bieri@unibe.ch,
+horst,bunke,Institute of Computer Science,"Bunke,_Horst.html","Bunke, Horst",horst.bunke@unibe.ch,
+oscar,nierstrasz,Institute of Computer Science,"Nierstrasz,_Oscar.html","Nierstrasz, Oscar",oscar.nierstrasz@unibe.ch,
+yamshid,farhat,Institute of Computer Science,"Farhat_Quinones,_Yamshid.html","Farhat Quinones, Yamshid",yamshid.farhat@unibe.ch,
+abdallah,alaoui,Institute of Geography,"Alaoui,_Abdallah.html","Alaoui, Abdallah",abdallah.alaoui@unibe.ch,Principal Investigator
+desiree,daniel,Institute of Geography,"Daniel-Ortmann,_Desiree_Christina.html","Daniel-Ortmann, Desiree Christina",desiree.daniel@unibe.ch,Adjunct researcher
+sandra,eckert,Institute of Geography,"Eckert,_Sandra.html","Eckert, Sandra",sandra.eckert@cde.unibe.ch,Lecturer / Research Associate
+andreas,heinimann,Institute of Geography,"Heinimann,_Andreas.html","Heinimann, Andreas",andreas.heinimann@wyssacademy.org,Lecturer / Senior Researcher
+markus,steffens,Institute of Geography,"Steffens,_Markus.html","Steffens, Markus",markus.steffens@unibe.ch,Associated Lecturer
+yunuen,temoltzin,Institute of Geography,"Temoltzin_Loranca,_Yunuen.html","Temoltzin Loranca, Yunuen",yunuen.temoltzin@unibe.ch,PhD Student
+onintsoa,andriamihaja,Centre for Development and Environment (CDE),"Andriamihaja,_Onintsoa_Ravaka_Niaina.html","Andriamihaja, Onintsoa Ravaka Niaina",onintsoa.andriamihaja@unibe.ch,Senior Research Scientist
+hans,hurni,Centre for Development and Environment (CDE),"Hurni,_Hans.html","Hurni, Hans",hans.hurni@unibe.ch,
+susanne,wampfler,Center for Space and Habitability (CSH),"Wampfler,_Susanne.html","Wampfler, Susanne",susanne.wampfler@unibe.ch,CSH Co-Director & Eccellenza Professorial Fellow (Astrochemistry)
+wolf,linder,KPM Center for Public Management,"Linder,_Wolf.html","Linder, Wolf",wolf.linder@ipw.unibe.ch,Senior Fellow
+ulrich,zimmerli,KPM Center for Public Management,"Zimmerli,_Ulrich.html","Zimmerli, Ulrich",ulrich.zimmerli@emeriti.unibe.ch,Senior Fellow
+fabian,blank,Microscopy Imaging Center (MIC),"Blank,_Fabian.html","Blank, Fabian",fabian.blank@dbmr.unibe.ch,Light Microscopy at DBMR
+claudio,loderer,Institute of Financial Management,"Loderer,_Claudio.html","Loderer, Claudio",claudio.loderer@unibe.ch,
+mirjam,strupler,Department of Economics,"Strupler,_Mirjam.html","Strupler, Mirjam",mirjam.strupler@seco.admin.ch,Staatssekretariat für Wirtschaft SECO
+a,n,Department of Economics,"Abdel_Rahman,_Abdulsatar.html","Abdel Rahman, Abdulsatar",a.n.peter@rug.nl,Assistant Professor at the University of Groningen
+vivianne,chappuis,School of Dental Medicine,"Chappuis,_Vivianne.html","Chappuis, Vivianne",vivianne.chappuis@unibe.ch,Klinikdirektorin
+clemens,raabe,School of Dental Medicine,"Raabe,_Clemens.html","Raabe, Clemens",clemens.raabe@unibe.ch,Oberarzt
+philippe,biel,School of Dental Medicine,"Biel,_Philippe_Marco.html","Biel, Philippe Marco",philippe.biel@unibe.ch,Assistenzzahnarzt
+fabrice,dulla,School of Dental Medicine,"Dulla,_Fabrice_Alain.html","Dulla, Fabrice Alain",fabrice.dulla@unibe.ch,Assistenzzahnarzt
+anna,jenner,School of Dental Medicine,"Jenner,_Anna_Jutta.html","Jenner, Anna Jutta",anna.jenner@unibe.ch,Assistenzzahnärztin
+mariya,asparuhova,School of Dental Medicine,"Asparuhova,_Mariya_Bozhidarova.html","Asparuhova, Mariya Bozhidarova",mariya.asparuhova@unibe.ch,Leiterin Forschungslabor
+karl,dula,School of Dental Medicine,"Dula,_Karl.html","Dula, Karl",karl.dula@unibe.ch,Gastprofessor
+christos,katsaros,School of Dental Medicine,"Katsaros,_Christos.html","Katsaros, Christos",christos.katsaros@unibe.ch,Direktor
+adrian,steiner,Farm Animal Clinic,"Steiner,_Adrian.html","Steiner, Adrian",adrian.steiner@unibe.ch,Leiter Nutztierklinik
+mireille,meylan,Farm Animal Clinic,"Meylan,_Mireille.html","Meylan, Mireille",mireille.meylan@unibe.ch,Leiterin Wiederkäuerklinik
+gabriela,hirsbrunner,Farm Animal Clinic,"Hirsbrunner,_Gabriela.html","Hirsbrunner, Gabriela",gabriela.hirsbrunner@unibe.ch,
+patrik,zanolari,Farm Animal Clinic,"Zanolari,_Patrik.html","Zanolari, Patrik",patrik.zanolari@unibe.ch,
+emma,marchionatti,Farm Animal Clinic,"Marchionatti,_Emma.html","Marchionatti, Emma",emma.marchionatti@unibe.ch,Oberärztin
+david,devaux,Farm Animal Clinic,"Devaux,_David.html","Devaux, David",david.devaux@unibe.ch,Oberarzt
+romane,zufferey,Farm Animal Clinic,"Zufferey,_Romane_Tiphaine.html","Zufferey, Romane Tiphaine",romane.zufferey@unibe.ch,
+corina,kobel,Farm Animal Clinic,"Kobel,_Corina.html","Kobel, Corina",corina.kobel@unibe.ch,
+alessia,bassi,Farm Animal Clinic,"Bassi,_Alessia_Maria_Giuseppina.html","Bassi, Alessia Maria Giuseppina",alessia.bassi@unibe.ch,
+eveline,studer,Farm Animal Clinic,"Studer,_Eveline.html","Studer, Eveline",eveline.studer@unibe.ch,
+richard,eicher,Farm Animal Clinic,"Eicher,_Richard.html","Eicher, Richard",richard.eicher@unibe.ch,
+martin,sommer,Farm Animal Clinic,"Sommer,_Martin_=28A=29.html","Sommer, Martin (A)",martin.sommer@unibe.ch,
+daniela,haldi,Farm Animal Clinic,"Haldi,_Daniela.html","Haldi, Daniela",daniela.haldi@unibe.ch,
+robin,schmid,Farm Animal Clinic,"Schmid,_Robin_Michael.html","Schmid, Robin Michael",robin.schmid@unibe.ch,
+claudia,syring,Farm Animal Clinic,"Syring,_Claudia.html","Syring, Claudia",claudia.syring@unibe.ch,Leitung
+maria,welham,Farm Animal Clinic,"Welham_Ruiters,_Maria_Verena.html","Welham Ruiters, Maria Verena",maria.welham@unibe.ch,
+andrea,preiswerk,Farm Animal Clinic,"Preiswerk,_Andrea_Rebekka.html","Preiswerk, Andrea Rebekka",andrea.preiswerk@unibe.ch,
+analena,sarbach,Farm Animal Clinic,"Sarbach,_Analena.html","Sarbach, Analena",analena.sarbach@unibe.ch,
+maher,alsaaod,Farm Animal Clinic,"Alsaaod,_Maher.html","Alsaaod, Maher",maher.alsaaod@unibe.ch,
+jens,becker,Farm Animal Clinic,"Becker,_Jens_Michael.html","Becker, Jens Michael",jens.becker@unibe.ch,Wissenschaftlicher Mitarbeiter
+marie,mudry,Farm Animal Clinic,"Mudry,_Marie.html","Mudry, Marie",marie.mudry@unibe.ch,Wissenschaftliche Mitarbeiterin
+alexander,grahofer,Farm Animal Clinic,"Grahofer,_Alexander.html","Grahofer, Alexander",alexander.grahofer@unibe.ch,Oberassistent
+claudia,egle,Farm Animal Clinic,"Egle,_Claudia.html","Egle, Claudia",claudia.egle@unibe.ch,Post-Doc
+fabienne,holenweger,Farm Animal Clinic,"Holenweger,_Fabienne.html","Holenweger, Fabienne",fabienne.holenweger@unibe.ch,"Assistentin, Doktorandin"
+ulrike,gerster,Farm Animal Clinic,"Gerster,_Ulrike_Hildegard.html","Gerster, Ulrike Hildegard",ulrike.gerster@unibe.ch,"Assistentin, Doktorandin"
+mirjam,arnold,Farm Animal Clinic,"Arnold,_Mirjam.html","Arnold, Mirjam",mirjam.arnold@unibe.ch,Oberassistentin
+laura,jahn,Farm Animal Clinic,"Jahnke,_Laura.html","Jahnke, Laura",laura.jahn@unibe.ch,"Assistentin, Doktorandin"
+david,buttelmann,Institute of Psychology,"Buttelmann,_David.html","Buttelmann, David",david.buttelmann@unibe.ch,Dozierender
+kristin,kolloff,Institute of Psychology,"Kolloff,_Kristin.html","Kolloff, Kristin",kristin.kolloff@unibe.ch,Doktorierende
+corina,berli,Institute of Psychology,"Berli,_Corina.html","Berli, Corina",corina.berli@unibe.ch,Lecturer
+dario,baretta,Institute of Psychology,"Baretta,_Dario.html","Baretta, Dario",dario.baretta@unibe.ch,Post Doc
+stefanie,gonin,Institute of Psychology,"Gonin-Spahni,_Stefanie.html","Gonin-Spahni, Stefanie",stefanie.gonin@unibe.ch,Research Associate
+vica,tomberge,Institute of Psychology,"Tomberge,_Vica_Marie_Jelena.html","Tomberge, Vica Marie Jelena",vica.tomberge@unibe.ch,"Doctoral Student, Assistant"
+robert,edgren,Institute of Psychology,"Edgren,_Robert_Walter.html","Edgren, Robert Walter",robert.edgren@unibe.ch,"Doctoral Student, Assistant"
+margit,oswald,Institute of Psychology,"Oswald,_Margit.html","Oswald, Margit",margit.oswald@unibe.ch,Professor Emeritus
+vladislav,krivoshchekov,Institute of Psychology,"Krivoshchekov,_Vladislav.html","Krivoshchekov, Vladislav",vladislav.krivoshchekov@unibe.ch,
+michael,taborsky,Institute of Ecology and Evolution,"Taborsky,_Michael.html","Taborsky, Michael",michael.taborsky@unibe.ch,Professor Emeritus Behavioural Ecology
+adamantia,kapopoulou,Institute of Ecology and Evolution,"Kapopoulou,_Adamantia.html","Kapopoulou, Adamantia",adamantia.kapopoulou@unibe.ch,Senior Bioinformatician
