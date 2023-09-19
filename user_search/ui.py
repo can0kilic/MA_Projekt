@@ -8,6 +8,7 @@ from searchosf import retrieve_user_info
 def fetch_data(href_value):
     id_value = href_value.replace(".html", "")
     api_url = f"https://boris.unibe.ch/cgi/exportview/contributors_bern/{id_value}/JSON/{id_value}.js"
+    # print("API Query:", api_url)  
     response = requests.get(api_url)
     return json.loads(response.text)
 
@@ -35,7 +36,7 @@ st.sidebar.info(f"This user interface exclusively showcases contributor informat
 if selected_mode == "BORIS":
     st.title("Usersearch Dashboard - BORIS")
 
-    selected_name = st.selectbox("Select Contributor", ["None"] + list(data["text"]))
+    selected_name = st.selectbox("Type or Select a Contributer", ["None"] + list(data["text"]))
     st.markdown("---")
 
     if selected_name != "None":
@@ -55,7 +56,12 @@ if selected_mode == "BORIS":
                 year_counts = year_counts.sort_values(by='date')
 
                 fig = px.scatter(year_counts, x="date", y="frequency", color="full_text_status", color_discrete_map={"open": "green", "close": "red"})
-                fig.update_layout(title="Frequency of 'Open' and 'Close' Status by Year", xaxis_title="Year", yaxis_title="Frequency")
+                fig.update_layout(
+                title="Frequency of 'Open' and 'Close' Status by Year",
+                xaxis_title="Year",
+                yaxis_title="Frequency",
+                legend_title_text=''  # Ausblenden des Legendentitels
+                )
                 
                 total_records = len(processed_df)
                 open_records = year_counts[year_counts["full_text_status"] == "open"]["frequency"].sum()
@@ -77,7 +83,7 @@ if selected_mode == "BORIS":
             else:
                 st.error("Failed to fetch or process data.")
     else:
-        st.warning("Select a name from the side menu to display the data.")
+        st.warning("Select or type a name from the side menu to display the data.")
 
     #back to dashnoard button
 else:
@@ -87,11 +93,11 @@ else:
 
     processed_names = df_cleaned['processed_name'].tolist()
     processed_names.insert(0, "None")  # Add "None" option at the beginning
-    selected_name = st.selectbox("Select Contributer", processed_names)
+    selected_name = st.selectbox("Type or Select Contributer", processed_names)
 
     # Display the ORCID for the selected name
     if selected_name == "None":
-        st.warning("Select a name from the side menu to display the data.")
+        st.warning("Select a Dataset from the side menu to display the data.")
     else:
         with st.spinner("Fetching data from OSF..."):
             
@@ -140,7 +146,15 @@ else:
                         year_counts = year_counts.sort_values(by='Year')
                         
                         fig = px.scatter(year_counts, x="Year", y="Frequency", title="Public Data OSF",
-                                        labels={"Year": "Publication Year", "Frequency": "Frequency"})
+                                        labels={"Year": "Year", "Frequency": "Frequency"})
+                        min_year = int(year_counts['Year'].min())
+                        max_year = int(year_counts['Year'].max())
+
+                        fig.update_xaxes(
+                            tickvals=list(range(min_year, max_year+1)), # Setze die Tick-Positionen
+                            ticktext=[str(year) for year in range(min_year, max_year+1)] # Setze die Tick-Labels
+                        )
+            
                         st.plotly_chart(fig)
 
                     else:
